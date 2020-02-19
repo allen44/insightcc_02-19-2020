@@ -17,10 +17,10 @@ def write_memory_to_csvfile(output_filename, raw_data):
     Args: a string representing a filename of output csv file.
     """
     raw_data = []
-    with open(output_filename, 'rw',) as csvfile:
+    with open(output_filename, 'w',) as csvfile:
         writer = csv.writer(csvfile, delimiter=',')
-        for row in (writer):
-                pass
+        for row in writer:
+                writer.writerow(row)
     return None
 
 def import_csv_with_dictreader(input_filename):

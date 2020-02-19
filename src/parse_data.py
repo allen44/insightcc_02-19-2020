@@ -23,11 +23,11 @@ def rows(raw_data, data_field_names):
     rows_list.pop(0) #remove the blank list at idx 0
     return rows_list
 
-def get_data_field_names(ordered_dict):
-    return data_field_names
+# def get_data_field_names(ordered_dict):
+#     return data_field_names
 
-def get_field_data(ordered_dict):
-    return data_fields
+# def get_field_data(ordered_dict):
+#     return data_fields
 
 while __name__ == '__main__':
     import read_write_functions 
