@@ -20,7 +20,7 @@ def make_dict(data_field_names, rows):
 while __name__ == '__main__':
     import read_write_functions 
     input = './input/data.csv'
-    output = './output/report.csv)'
+    output = './output/report.csv'
     import parse_data
     raw_data1 = read_write_functions.read_csvfile_to_memory(input)
     #print('\nprint(raw_data)\n', raw_data)

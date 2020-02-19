@@ -26,7 +26,7 @@ def rows(raw_data, data_field_names):
 def get_data_field_names(ordered_dict):
     return data_field_names
 
-def get_field_data():
+def get_field_data(ordered_dict):
     return data_fields
 
 while __name__ == '__main__':
