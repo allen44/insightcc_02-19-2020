@@ -23,17 +23,31 @@ def rows(raw_data, data_field_names):
     rows_list.pop(0) #remove the blank list at idx 0
     return rows_list
 
+def get_data_field_names(ordered_dict):
+    return data_field_names
+
+def get_field_data():
+    return data_fields
+
 while __name__ == '__main__':
-    import read_input 
+    import read_write_functions 
     input = './input/data.csv'
     output = './output/report.csv)'
-    import make_columns
-    raw_data1 = read_input.read_csvfile_to_memory(input)
-    print('\nprint(raw_data1)\n', raw_data1)
-    #print('\nprint(raw_data)\n', raw_data)
-    #print('\nprint(raw_data[0])\n', raw_data[0])
-    data_field_names1 = data_field_names(raw_data1)
-    print('\nprint(data_field_names1)\n', data_field_names1)
-    rows1 = rows(raw_data1, data_field_names1)
-    print('\nprint(rows1)\n', rows1)
+    import parse_data
+    # raw_data1 = read_write_functions.read_csvfile_to_memory(input)
+    # print('\nprint(raw_data1)\n', raw_data1)
+    # #print('\nprint(raw_data)\n', raw_data)
+    # #print('\nprint(raw_data[0])\n', raw_data[0])
+    # data_field_names1 = data_field_names(raw_data1)
+    # print('\nprint(data_field_names1)\n', data_field_names1)
+    # rows1 = rows(raw_data1, data_field_names1)
+    # print('\nprint(rows1)\n', rows1)
+    
+    import read_write_functions 
+    input = './input/data.csv'
+    output = './output/report.csv'
+    # raw_data1 = read_csvfile_to_memory(input)
+    # print('\nprint(raw_data1)\n', raw_data1)
+    raw_data2 = read_write_functions.import_csv_with_dictreader(input)
+    print('\nprint(raw_data2)\n', raw_data2)
     break

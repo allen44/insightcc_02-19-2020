@@ -18,16 +18,16 @@ def make_dict(data_field_names, rows):
 
 
 while __name__ == '__main__':
-    import read_input 
+    import read_write_functions 
     input = './input/data.csv'
     output = './output/report.csv)'
-    import make_columns
-    raw_data1 = read_input.read_csvfile_to_memory(input)
+    import parse_data
+    raw_data1 = read_write_functions.read_csvfile_to_memory(input)
     #print('\nprint(raw_data)\n', raw_data)
     #print('\nprint(raw_data[0])\n', raw_data[0])
-    data_field_names1 = make_columns.data_field_names(raw_data1)
+    data_field_names1 = parse_data.data_field_names(raw_data1)
     print('\nprint(data_field_names1)\n', data_field_names1)
-    rows1 = make_columns.rows(raw_data1, data_field_names1)
+    rows1 = parse_data.rows(raw_data1, data_field_names1)
     print('\nprint(rows1)\n', rows1)
     make_dict1 = make_dict(data_field_names1, rows1)
     print('\nprint(make_dict1)\n', make_dict1)
