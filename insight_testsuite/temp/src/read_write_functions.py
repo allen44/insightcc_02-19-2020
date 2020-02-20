@@ -1,21 +1,21 @@
 import csv
 
 
-def read_csvfile_to_memory(input_filename):
-    """
-    Args: a string representing a filename of csv file.
-    Return: a list of strings representing column names from the top row of the csv, and the data fields from the rest of the csvfile.
-    """
-    data_entries = []
-    headers = []
-    with open(input_filename, 'r',) as csvfile:
-        reader = csv.reader(csvfile, delimiter=',')
-        for row in reader:
-            data_entries.append(row)
-    headers = data_entries.pop(0) 
-    print(headers)
-    print(data_entries)
-    return(headers, data_entries)
+# def read_csvfile_to_memory(input_filename):
+#     """
+#     Args: a string representing a filename of csv file.
+#     Return: a list of strings representing column names from the top row of the csv, and the data fields from the rest of the csvfile.
+#     """
+#     data_entries = []
+#     headers = []
+#     with open(input_filename, 'r',) as csvfile:
+#         reader = csv.reader(csvfile, delimiter=',')
+#         for row in reader:
+#             data_entries.append(row)
+#     headers = data_entries.pop(0) 
+#     print(headers)
+#     print(data_entries)
+#     return(headers, data_entries)
     
 # def write_memory_to_csvfile(output_filename, data_entries):
 #     """
@@ -36,22 +36,24 @@ def import_csv_with_dictreader(input_filename, fieldnames=['Border', 'Date', 'Me
     data_entries = []
     remove_keys = ['Port Name', 'State', 'Port Code', 'Location'] 
     reader = csv.DictReader(open(input_filename))
-    for item in (reader):
-        temp_dict = list(reader)
+    for i, row in enumerate(reader):
+        temp_dict = dict(i)
         # Using pop() + list comprehension 
         # Remove multiple keys from dictionary 
-        # [temp_dict.index(key) for key in remove_keys] 
-        # print('\ntemp_dict', temp_dict, '\n')
-        data_entries.append(temp_dict)
+        try:
+            [temp_dict.pop(key) for key in remove_keys] 
+            print('\ntemp_dict', temp_dict, '\n')
+            data_entries.append(temp_dict)
+        except KeyError:
+            pass
         # print('\nrow\n', row)
         # print('items', list(key))
-    # data_entries.pop(0)
     #print('\nfieldnames\n',type(fieldnames))
     #print('\nfieldnames\n',fieldnames)
-    #print('\n\ndata_entries\n', data_entries)
-    headers = ['Border', 'Date', 'Measure', 'Value', 'Average']
-    # headers = data_entries[0].keys()
-    #print('\n\nheaders\n', headers)
+    print('\n\ndata_entries\n', data_entries)
+    headers = []
+    headers = data_entries[0].keys()
+    print('\n\nheaders\n', headers)
     return headers, data_entries
     
 def export_csv_with_dictwriter(output_filename, headers, sorted_dict):

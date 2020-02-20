@@ -64,7 +64,7 @@ while __name__ == '__main__':
     import pprint
     input = './input/data.csv'
     output = './output/report.csv'
-    key_list1 = ['Border', 'Date', 'Measure', 'Value']
+    key_list1 = ['Border', 'Date', 'Measure']
     # relavent_fieldnames = {'Border', 'Date', 'Measure', 'Value'}
     headers1, data_entries1 = read_write_functions.import_csv_with_dictreader(input)
     #headers1, data_entries1 = read_csvfile_to_memory(input)
@@ -88,5 +88,5 @@ while __name__ == '__main__':
     all_values_for_key_list1 = get_set_of_all_values_for_keys(sorted_dict_ascending1, key_list1)
     print(all_values_for_key_list1)
     running_sum_for_same_column(sorted_dict_ascending1, 'Measure', len(sorted_dict_ascending1), 0, -1)
-    read_write_functions.export_csv_with_dictwriter('./output/report2.csv', headers1, sorted_dict_ascending1)
+    read_write_functions.export_csv_with_dictwriter('./output/report2.csv', headers1, sorted_dict1)
     break

@@ -1,8 +1,1 @@
-Border,Date,Measure,Value
-US-Canada Border,03/01/2019 12:00:00 AM,Truck Containers Full,6483
-US-Mexico Border,03/01/2019 12:00:00 AM,Pedestrians,346158
-US-Canada Border,03/01/2019 12:00:00 AM,Trains,19
-US-Mexico Border,02/01/2019 12:00:00 AM,Pedestrians,156891
-US-Mexico Border,02/01/2019 12:00:00 AM,Pedestrians,15272
-US-Canada Border,02/01/2019 12:00:00 AM,Truck Containers Empty,1319
-US-Mexico Border,01/01/2019 12:00:00 AM,Pedestrians,56810
+Border,Date,Measure,Value,Average
