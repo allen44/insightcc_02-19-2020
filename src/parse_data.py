@@ -59,8 +59,8 @@ while __name__ == '__main__':
     import pprint
     input = './input/data.csv'
     output = './output/report.csv'
-    # relavent_fieldnames = {'Border', 'Date', 'Measure', 'Value'}
-    headers1, data_entries1 = read_write_functions.read_csvfile_to_memory(input)
+    headers1, data_entries1 = read_write_functions.import_csv_with_dictreader(input)
+    # headers1, data_entries1 = read_write_functions.read_csvfile_to_memory(input)
     print ('headers1', headers1)
     print('data_entries1')
     pprint.pprint(data_entries1)
@@ -71,10 +71,11 @@ while __name__ == '__main__':
     # print(type(data_entries2))    
     import parse_data
     import make_data_structure
-    make_dict1 = make_data_structure.make_dict(headers1, data_entries1)
-    print('\nprint(make_dict1)\n', make_dict1)
-    import sort_dictionary_values
-    sorted_dict1 = sort_dictionary_values.sort_dict_by_values(make_dict1)
-    print('\nprint(sorted_dict1)\n', sorted_dict1)
-    read_write_functions.export_csv_with_dictwriter(output, headers1, sorted_dict1)
+    import data_table_functions
+    sorted_dict_ascending1 = sort_dict_by_values_ascending(data_entries1)
+    # make_dict1 = make_data_structure.make_dict(headers1, data_entries1)
+    # print('\nprint(make_dict1)\n', make_dict1)
+    sorted_dict_ascending1 = data_table_functions.sort_dict_by_values_ascending(data_entries1)
+    print('\nprint(sorted_dict1)\n', sorted_dict_ascending1)
+    read_write_functions.export_csv_with_dictwriter(output, headers1, sorted_dict_ascending1)
     break
