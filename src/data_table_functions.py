@@ -10,25 +10,25 @@ def sort_dict_by_values_ascending(data_table):
     sorted_data_dict_ascending = sorted(data_table, reverse = False, key = lambda i: (i['Date'], i['Value'], i['Measure'], i['Border']))
     return sorted_data_dict_ascending
 
-def running_sum_for_same_column(sorted_data_table, column_name, index_start, index_end, increment):
-    """
-    args: data_table is a list of dicts, column_name is a string
-    return: 
-    """
-    print ("\n\ninitial dictionary", str(sorted_data_table)) 
-    for row in sorted_data_table:
-        print('\nrow\n', row)
-        if column_name in row.keys():
-            print('\ncolumn_name', column_name)
-            print('\nrow.keys()', row.keys())
-            print('column_name.value()\n', row[column_name])
-            print(f'The original dictionary is :  {row}') 
-            # Using list() + keys() + index() 
-            # Key index in Dictionary 
-            res = list(row.keys()).index('Value') 
-            # printing result  
-            print("Index of search key is : " + str(res))
-            row.update({column_name, 'Value'})
+# def running_sum_for_same_column(sorted_data_table, column_name, index_start, index_end, increment):
+#     """
+#     args: data_table is a list of dicts, column_name is a string
+#     return: 
+#     """
+#     print ("\n\ninitial dictionary", str(sorted_data_table)) 
+#     for row in sorted_data_table:
+#         print('\nrow\n', row)
+#         if column_name in row.keys():
+#             print('\ncolumn_name', column_name)
+#             print('\nrow.keys()', row.keys())
+#             print('column_name.value()\n', row[column_name])
+#             print(f'The original dictionary is :  {row}') 
+#             # Using list() + keys() + index() 
+#             # Key index in Dictionary 
+#             res = list(row.keys()).index('Value') 
+#             # printing result  
+#             print("Index of search key is : " + str(res))
+#             row.update({column_name, 'Value'})
                 # # sum the values with same keys 
                 # counter = collections.Counter() 
                 # for d in sorted_data_table:
@@ -41,8 +41,20 @@ def running_sum_for_same_column(sorted_data_table, column_name, index_start, ind
                 #Sum the total number of crossings (Value) of each type of vehicle or equipment,
                 #  or passengers or pedestrians, that crossed the border that month, regardless of what port was used.
                 #
+def get_set_of_all_values_for_keys(any_data_table, key_list):
+    all_values_for_key = [{}]
+        # Using list comprehension 
+        # Get values of particular key in list of dictionaries 
+    for i in key_list:
+        all_values_for_key[i] =  set( sub['key'] for sub in any_data_table )
+    print(all_values_for_key)
+    return all_values_for_key
 
-
+# def new_column_maker(data_table):
+#     set_of_measures = {'Truck Containers Full', 'Trains', 'Pedestrians', 'Truck Containers Empty',}
+#     for row in sorted_data_table:
+#         if (US-Canada Border and ) in row.values():
+#             row.update((new_key, ))
 
 
 while __name__ == '__main__':
@@ -72,4 +84,7 @@ while __name__ == '__main__':
     read_write_functions.export_csv_with_dictwriter(output, headers1, sorted_dict_ascending1)
     running_sum_for_same_column(sorted_dict_ascending1, 'Measure', len(sorted_dict_ascending1), 0, -1)
     read_write_functions.export_csv_with_dictwriter('./output/report2.csv', headers1, sorted_dict1)
+    key_list1 = ['Measure', 'Border']
+    all_values_for_key_list1 = get_set_of_all_values_for_keys(sorted_dict_ascending1, key_list1)
+    print(all_values_for_key_list1)
     break
