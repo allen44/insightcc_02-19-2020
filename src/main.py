@@ -54,7 +54,7 @@ def sort_dict_by_date(list_of_dicts, ascending):
     """
     from operator import itemgetter
     sorted_list_of_dicts = sorted(list_of_dicts, key=itemgetter('Date', 'Value', 'Measure', 'Border'))
-    print('\n\nsorted_list_of_dicts\n', ascending, '\n', sorted_list_of_dicts)
+    # print('\n\nsorted_list_of_dicts\n', ascending, '\n', sorted_list_of_dicts)
     return sorted_list_of_dicts
 
 def add_new_column(ascending_list_of_dicts, name_of_new_key):
@@ -69,18 +69,49 @@ def add_new_column(ascending_list_of_dicts, name_of_new_key):
 def consolidate_measures(ascending_list_of_dicts):
     dates = []
     measures = []
-    output = []
-    # get set of dates
+    output_list_of_dicts = []
+    start_new_date_counter = 1
+    start_date_index = 0
+    end_date_index = 0
+
     for i, row in enumerate(ascending_list_of_dicts):
-        dates.append(row.date)
-    for i, row in enumerate(ascending_list_of_dicts):
-        if dates ==  []:
-            dates[i] = row['Date']
-        elif True:
-            dates = row['Date']
-            measures = row['Measure']
-            print('\ndates', dates)
-            print('measures', measures)
+        print('\ngettingset of dates, i = ', i)
+        # get set of dates
+        # if i == 0 :
+        #     start_date_index = 0
+        #     dates.append(row['Date'])
+        #     dates.append(['Measures'])
+        if ascending_list_of_dicts[i]['Date'] == ascending_list_of_dicts[i-1]['Date']:
+            print('allgood')
+            # print('inside second if loop...', 'start_date_index = ', start_date_index, 'end_date_index = ', end_date_index)
+        else: #ascending_list_of_dicts[i]['Date'] != ascending_list_of_dicts[i-1]['Date']:
+            # date is different from previous line
+            #How many lines since last date change
+            end_date_index = i + 1
+            lines_since_last_date_change = end_date_index - start_date_index
+            # print('lines_since_last_date_change', lines_since_last_date_change)
+            # get set of measures
+            for subset in ascending_list_of_dicts[start_date_index:end_date_index]:
+                print('get set of measures, [start_date_index:end_date_index]', start_date_index, ':', end_date_index)
+                # print('ascending_list_of_dicts[start_date_index:end_date_index]', ascending_list_of_dicts[start_date_index:end_date_index])
+                # measures = 
+            start_date_index = i+1
+
+    return output_list_of_dicts
+                
+
+
+
+
+    #     dates.append(row.date)
+    # for i, row in enumerate(ascending_list_of_dicts):
+    #     if dates ==  []:
+    #         dates[i] = row['Date']
+    #     elif True:
+    #         dates = row['Date']
+    # #         measures = row['Measure']
+    #         print('\ndates', dates)
+    #         print('measures', measures)
 
 def calulate_averages(ascending_list_of_dicts):
     print('\n\nstarting callulate_averages function')
@@ -95,7 +126,7 @@ data_entries1 = import_csv_with_dictreader(input)
 #print('\n\ndata_entries1\n', data_entries1) 
 
 data_entries2 = make_copy_of_data_with_only_relavent_keys(data_entries1)
-print('\n\ndata_entries2\n', data_entries2)
+# print('\n\ndata_entries2\n', data_entries2)
 #remove_unecessary_keys(data_entries1)
 
 #print(data_entries1)
@@ -104,7 +135,7 @@ data_entries3 = sort_dict_by_date(data_entries2, True)
 #print('\n\ndata_entries3\n', data_entries3)
 
 data_entries4 = add_new_column(data_entries3, 'Average')
-print('\n\ndata_entries4\n', data_entries4)
+# print('\n\ndata_entries4\n', data_entries4)
 
 data_entries5 = consolidate_measures(data_entries4)
 print('\n\ndata_entries5\n', data_entries5)
