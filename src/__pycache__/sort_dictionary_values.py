@@ -3,20 +3,13 @@
 
 while __name__ == '__main__':
     import read_write_functions 
+<<<<<<< HEAD:src/__pycache__/sort_dictionary_values.py
     import read_write_functions
     import pprint
+=======
+>>>>>>> parent of 960853d... Fairly stable now:src/sort_dictionary_values.py
     input = './input/data.csv'
     output = './output/report.csv'
-    # relavent_fieldnames = {'Border', 'Date', 'Measure', 'Value'}
-    headers1, data_entries1 = read_write_functions.read_csvfile_to_memory(input)
-    print ('headers1', headers1)
-    print('data_entries1')
-    pprint.pprint(data_entries1)
-    # data_entries2 = import_csv_with_dictreader(input, relavent_fieldnames)
-    # print('\ndata_entries2\n')
-    # pprint.pprint(data_entries2)
-    # print('\nprint(data_entries2)\n', data_entries2)
-    # print(type(data_entries2))    
     import parse_data
     raw_data1 = read_write_functions.read_csvfile_to_memory(input)
     #print('\nprint(raw_data)\n', raw_data)
@@ -25,6 +18,7 @@ while __name__ == '__main__':
     print('\nprint(data_field_names1)\n', data_field_names1)
     rows1 = parse_data.rows(raw_data1, data_field_names1)
     print('\nprint(rows1)\n', rows1)
+<<<<<<< HEAD:src/__pycache__/sort_dictionary_values.py
     # headers = parse_data.headers(data_entries1)
     # print('\nprint(data_field_names1)\n', data_field_names1)
     # data_entries1 = parse_data.rows(data_entries1, data_field_names1)
@@ -39,4 +33,11 @@ while __name__ == '__main__':
     print('\nprint(sorted_dict1)\n', sorted_dict1)
     break
     read_write_functions.export_csv_with_dictwriter(output, headers1, sorted_dict1)
+=======
+    import make_data_structure
+    make_dict1 = make_data_structure.make_dict(data_field_names1, rows1)
+    print('\nprint(make_dict1)\n', make_dict1)
+    sorted_dict1 = sort_dict_by_values(make_dict1)
+    print('\nprint(sorted_dict1)\n', sorted_dict1)
+>>>>>>> parent of 960853d... Fairly stable now:src/sort_dictionary_values.py
     break
