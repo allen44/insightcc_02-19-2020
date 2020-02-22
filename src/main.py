@@ -3,7 +3,7 @@ sys.argv = ('', './input/data.csv', './output/report.csv' )
 input = sys.argv[1]
 output = sys.argv[2]
 
-input = 'C:/Users/allen/Documents/GitHub/insightcc_02-19-2020/input/data.csv'
+input = 'C:/Users/allen/Documents/GitHub/insightcc_02-19-2020/input/Border_Crossing_Entry_Data.csv'
 output = 'C:/Users/allen/Documents/GitHub/insightcc_02-19-2020/output/data.csv'
 data_entries = []
 import csv
@@ -67,35 +67,87 @@ def add_new_column(ascending_list_of_dicts, name_of_new_key):
     return ascending_list_of_dicts
 
 def consolidate_measures(ascending_list_of_dicts):
-    dates = []
-    measures = []
+    import collections, functools, operator 
+    date = ''
+    measures_set = set([])
+    borders_set = set([])
     output_list_of_dicts = []
-    start_new_date_counter = 1
     start_date_index = 0
     end_date_index = 0
-
+    output_index = 0
     for i, row in enumerate(ascending_list_of_dicts):
-        print('\ngettingset of dates, i = ', i)
+        # print('top of outer for loop 0')
+        # output_list_of_dicts.append(ascending_list_of_dicts[i])
+        # print('\ngettingset of dates, i = ', i, ' Date = ', row['Date'])
         # get set of dates
-        # if i == 0 :
-        #     start_date_index = 0
-        #     dates.append(row['Date'])
-        #     dates.append(['Measures'])
-        if ascending_list_of_dicts[i]['Date'] == ascending_list_of_dicts[i-1]['Date']:
-            print('allgood')
-            # print('inside second if loop...', 'start_date_index = ', start_date_index, 'end_date_index = ', end_date_index)
-        else: #ascending_list_of_dicts[i]['Date'] != ascending_list_of_dicts[i-1]['Date']:
-            # date is different from previous line
-            #How many lines since last date change
-            end_date_index = i + 1
-            lines_since_last_date_change = end_date_index - start_date_index
-            # print('lines_since_last_date_change', lines_since_last_date_change)
+        if i == 0 :
+            start_date_index = 0
+            date = row['Date']
+        elif ascending_list_of_dicts[i]['Date'] == ascending_list_of_dicts[i-1]['Date']:
+            pass
+            # print('allgood', 'i =', i, row['Date'], start_date_index)
+            #print('inside second if loop...', 'start_date_index = ', start_date_index, 'end_date_index = ', end_date_index)
+        else: #ascending_list_of_dicts[i]['Date'] != ascending_list_of_dicts[i-1]['Date'],   # date is different from previous line
+            end_date_index = i
+            date = row['Date']
             # get set of measures
-            for subset in ascending_list_of_dicts[start_date_index:end_date_index]:
-                print('get set of measures, [start_date_index:end_date_index]', start_date_index, ':', end_date_index)
+            for j, d in enumerate(ascending_list_of_dicts[start_date_index:end_date_index]):
+                # print('get set of measures, [start_date_index:end_date_index]', start_date_index, ':', end_date_index)
                 # print('ascending_list_of_dicts[start_date_index:end_date_index]', ascending_list_of_dicts[start_date_index:end_date_index])
-                # measures = 
-            start_date_index = i+1
+                measures_set.add(ascending_list_of_dicts[j]['Measure'])
+            print('found Measures: ', measures_set)
+            # get set of borders
+            for j, d in enumerate(ascending_list_of_dicts[start_date_index:end_date_index]):
+                # print('get set of borders, [start_date_index:end_date_index]', start_date_index, ':', end_date_index)
+                # print('ascending_list_of_dicts[start_date_index:end_date_index]', ascending_list_of_dicts[start_date_index:end_date_index])
+                borders_set.add(ascending_list_of_dicts[j]['Border'])
+            print('found Borders: ', borders_set, '[start_date_index:end_date_index]', start_date_index, ':', end_date_index)
+            #make new keys for dicts
+            # print('range(start_date_index, end_date_index)', range(start_date_index, end_date_index))
+            # print('start_date_index', start_date_index, type(start_date_index))
+            # print('end_date_index', end_date_index, type(end_date_index))
+            for j in range(start_date_index, end_date_index): #range where dates are same
+                # change sets to lists
+                measures = list(measures_set)
+                borders = list(borders_set)
+                # print('top of inner for loop')
+                # print(start_date_index, type(start_date_index))
+                # print(end_date_index, type(end_date_index))
+                #initialize a 2x2 list for border and measure sums
+                matrix_of_sums = [[0 for item in range(0, len(measures))] for item in range(0, len(borders))]
+                print(matrix_of_sums)
+                dicts_with_same_date = ascending_list_of_dicts[start_date_index: end_date_index]
+                print(start_date_index, end_date_index)
+                print('len dicts_with_same_date: ' ,len(dicts_with_same_date))
+                for line in dicts_with_same_date:
+                    line.update({str(line.get('Date')+line.get('Border')+line.get('Measure')+'Value') : 0})#create a new dictionary key
+                    print('New k:v pair: ' , {str(line.get('Date')+line.get('Border')+line.get('Measure')+'Value') : 0})
+                for i,border in enumerate(borders):        #for dicts with the same data and border
+                    for j, measure in enumerate(measures):   #for dicts with the same date, border and measure
+                        #create a new dictionary key
+                        dicts_with_same_date 
+                        # print('measure =' , measure)            
+                        # print(range(start_date_index,end_date_index))
+                        # print('i = ', i ,  "Date: ", ascending_list_of_dicts[i-1]['Date'], 'Border :', border, 'Measure: ' , measure)
+                        # sum the values with same keys 
+                        result = copy()
+                        for d in dicts_with_same_date: 
+                            d[key] = result.get(k, 0) + d[k]
+                        output_line = dict([['Date', row['Date']], ['Border', border] , ['Measure', measure], ['Value' , 0]])
+                        output_list_of_dicts.append(output_line)
+                        # output_list_of_dicts[output_index] = dict( 'Date' = row['Date'], 'Border' = border , 'Measure' =  measure, 'Value' = v, 'Average' = a)
+                    # print('border = , ', border)
+                    for measure in list(measures):
+                        pass
+                        # print('measure =' , measure)            
+                        # print(range(start_date_index,end_date_index )   
+            start_date_index = i
+        measures_set.clear()
+        borders_set.clear()
+        # print('start_date_index =', start_date_index, type(start_date_index))
+        # print('end_date_index =', end_date_index, type(end_date_index))
+    # print('measures = ',set(measures))
+    # print('borders =', set(borders))
 
     return output_list_of_dicts
                 
@@ -114,7 +166,7 @@ def consolidate_measures(ascending_list_of_dicts):
     #         print('measures', measures)
 
 def calulate_averages(ascending_list_of_dicts):
-    print('\n\nstarting callulate_averages function')
+    print('\n\nstarting calculate_averages function')
     for row_num, row in enumerate(ascending_list_of_dicts):
         # for 
         print(row_num, row)
@@ -135,7 +187,9 @@ data_entries3 = sort_dict_by_date(data_entries2, True)
 #print('\n\ndata_entries3\n', data_entries3)
 
 data_entries4 = add_new_column(data_entries3, 'Average')
-# print('\n\ndata_entries4\n', data_entries4)
+# for i, row in enumerate(data_entries4):
+    # print('\ndata_entries4\n', i, row.values())
 
 data_entries5 = consolidate_measures(data_entries4)
-print('\n\ndata_entries5\n', data_entries5)
+# print('\n\ndata_entries5\n', data_entries5)
+

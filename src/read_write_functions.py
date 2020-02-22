@@ -47,7 +47,7 @@ def read_csvfile_to_memory(input_filename):
 def export_csv_with_dictwriter(output_filename, headers, sorted_dict):
     """
     Args: a string representing a filename of input csv file.
-    Return: a list of ordered dicts representing column names from the top row of the csv,as the keys, and the data fields from the rest of the csvfile as the values.
+    Return: a list of  dicts representing column names from the top row of the csv,as the keys, and the data fields from the rest of the csvfile as the values.
     """
     try:
         with open(output_filename, 'w') as csvfile:

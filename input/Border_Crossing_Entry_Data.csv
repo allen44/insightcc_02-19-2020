@@ -1,0 +1,1573 @@
+Port Name,State,Port Code,Border,Date,Measure,Value
+Alexandria Bay,NY,708,US-Canada Border,12/01/2019 12:00:00 AM,Bus Passengers,740
+Baudette,MN,3424,US-Canada Border,12/01/2019 12:00:00 AM,Bus Passengers,83
+Blaine,WA,3004,US-Canada Border,12/01/2019 12:00:00 AM,Bus Passengers,17029
+Brownsville,TX,2301,US-Mexico Border,12/01/2019 12:00:00 AM,Bus Passengers,4668
+Buffalo-Niagara Falls,NY,901,US-Canada Border,12/01/2019 12:00:00 AM,Bus Passengers,9910
+Calais,ME,115,US-Canada Border,12/01/2019 12:00:00 AM,Bus Passengers,279
+Calexico East,CA,2507,US-Mexico Border,12/01/2019 12:00:00 AM,Bus Passengers,4080
+Champlain-Rouses Point,NY,712,US-Canada Border,12/01/2019 12:00:00 AM,Bus Passengers,22612
+Columbus,NM,2406,US-Mexico Border,12/01/2019 12:00:00 AM,Bus Passengers,1452
+Derby Line,VT,209,US-Canada Border,12/01/2019 12:00:00 AM,Bus Passengers,2016
+Detroit,MI,3801,US-Canada Border,12/01/2019 12:00:00 AM,Bus Passengers,7836
+Douglas,AZ,2601,US-Mexico Border,12/01/2019 12:00:00 AM,Bus Passengers,107
+Dunseith,ND,3422,US-Canada Border,12/01/2019 12:00:00 AM,Bus Passengers,76
+Eagle Pass,TX,2303,US-Mexico Border,12/01/2019 12:00:00 AM,Bus Passengers,8525
+El Paso,TX,2402,US-Mexico Border,12/01/2019 12:00:00 AM,Bus Passengers,39745
+Frontier,WA,3020,US-Canada Border,12/01/2019 12:00:00 AM,Bus Passengers,214
+Grand Portage,MN,3613,US-Canada Border,12/01/2019 12:00:00 AM,Bus Passengers,563
+Hansboro,ND,3415,US-Canada Border,12/01/2019 12:00:00 AM,Bus Passengers,50
+El Paso,TX,2402,US-Mexico Border,02/01/1996 12:00:00 AM,Personal Vehicles,1242710
+Laurier,WA,3016,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,0
+Sherwood,ND,3414,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Laredo,TX,2304,US-Mexico Border,02/01/1996 12:00:00 AM,Rail Containers Full,6241
+Columbus,NM,2406,US-Mexico Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,43042
+Trout River,NY,715,US-Canada Border,02/01/1996 12:00:00 AM,Trains,61
+Danville,WA,3012,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,245
+Massena,NY,704,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,2362
+Calais,ME,115,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,7635
+Limestone,ME,118,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,3432
+Norton,VT,211,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,1590
+Turner,MT,3306,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Noyes,MN,3402,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,0
+Nighthawk,WA,3011,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,0
+Richford,VT,203,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,0
+Frontier,WA,3020,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,0
+Eastport,ID,3302,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,134
+Progreso,TX,2309,US-Mexico Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Vanceboro,ME,105,US-Canada Border,02/01/1996 12:00:00 AM,Buses,5
+Del Rio,TX,2302,US-Mexico Border,02/01/1996 12:00:00 AM,Pedestrians,20953
+Walhalla,ND,3407,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,626
+Alcan,AK,3104,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Calexico East,CA,2507,US-Mexico Border,02/01/1996 12:00:00 AM,Buses,0
+Baudette,MN,3424,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,586
+Champlain-Rouses Point,NY,712,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Norton,VT,211,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,826
+Pinecreek,MN,3425,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,0
+Fortuna,ND,3417,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,0
+Raymond,MT,3301,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,3681
+Fort Fairfield,ME,107,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,1202
+Opheim,MT,3317,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,0
+Trout River,NY,715,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,11814
+Pembina,ND,3401,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,0
+Opheim,MT,3317,US-Canada Border,02/01/1996 12:00:00 AM,Trains,0
+Columbus,NM,2406,US-Mexico Border,02/01/1996 12:00:00 AM,Truck Containers Full,85
+Laurier,WA,3016,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,8989
+Scobey,MT,3309,US-Canada Border,02/01/1996 12:00:00 AM,Buses,0
+Warroad,MN,3423,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Pembina,ND,3401,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,10981
+Bridgewater,ME,127,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,0
+Del Bonita,MT,3322,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,17
+Del Bonita,MT,3322,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,19
+Tornillo-Fabens,TX,2404,US-Mexico Border,02/01/1996 12:00:00 AM,Train Passengers,0
+Otay Mesa,CA,2506,US-Mexico Border,02/01/1996 12:00:00 AM,Trucks,38871
+Massena,NY,704,US-Canada Border,02/01/1996 12:00:00 AM,Trains,0
+Turner,MT,3306,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,51
+Grand Portage,MN,3613,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,3351
+Neche,ND,3404,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,3249
+Hidalgo,TX,2305,US-Mexico Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Dunseith,ND,3422,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,0
+Whitetail,MT,3312,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,11
+Hannah,ND,3408,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,0
+Sumas,WA,3009,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Alexandria Bay,NY,708,US-Canada Border,02/01/1996 12:00:00 AM,Buses,108
+Port Huron,MI,3802,US-Canada Border,02/01/1996 12:00:00 AM,Buses,104
+Derby Line,VT,209,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,1119
+Dunseith,ND,3422,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,1596
+Eastport,ID,3302,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,3587
+Whitlash,MT,3321,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,0
+Calais,ME,115,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,8382
+Whitetail,MT,3312,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,0
+Limestone,ME,118,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,0
+Noyes,MN,3402,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,27
+El Paso,TX,2402,US-Mexico Border,02/01/1996 12:00:00 AM,Bus Passengers,5996
+Noonan,ND,3420,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,21
+Roosville,MT,3318,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,1757
+Jackman,ME,104,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,2451
+Porthill,ID,3308,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Rio Grande City,TX,2307,US-Mexico Border,02/01/1996 12:00:00 AM,Personal Vehicles,46248
+Metaline Falls,WA,3025,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,88
+Pembina,ND,3401,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,32943
+Bridgewater,ME,127,US-Canada Border,02/01/1996 12:00:00 AM,Trains,0
+Van Buren,ME,108,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,0
+Roseau,MN,3426,US-Canada Border,02/01/1996 12:00:00 AM,Buses,0
+Danville,WA,3012,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,114
+Lynden,WA,3023,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,317
+Alcan,AK,3104,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,0
+Metaline Falls,WA,3025,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,0
+Opheim,MT,3317,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,0
+Sasabe,AZ,2606,US-Mexico Border,02/01/1996 12:00:00 AM,Truck Containers Full,53
+Beecher Falls,VT,206,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,0
+Skagway,AK,3103,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,499
+Douglas,AZ,2601,US-Mexico Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Lynden,WA,3023,US-Canada Border,02/01/1996 12:00:00 AM,Trains,0
+Sumas,WA,3009,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,3614
+Jackman,ME,104,US-Canada Border,02/01/1996 12:00:00 AM,Buses,42
+Alexandria Bay,NY,708,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Danville,WA,3012,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,7887
+Buffalo-Niagara Falls,NY,901,US-Canada Border,02/01/1996 12:00:00 AM,Trains,268
+Fort Fairfield,ME,107,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,131
+Raymond,MT,3301,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,169
+Progreso,TX,2309,US-Mexico Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Sault Sainte Marie,MI,3803,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,0
+Jackman,ME,104,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,9024
+Detroit,MI,3801,US-Canada Border,02/01/1996 12:00:00 AM,Trains,339
+Sherwood,ND,3414,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,2978
+Eagle Pass,TX,2303,US-Mexico Border,02/01/1996 12:00:00 AM,Trains,120
+Nogales,AZ,2604,US-Mexico Border,02/01/1996 12:00:00 AM,Bus Passengers,412
+Highgate Springs-Alburg,VT,212,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,0
+Naco,AZ,2603,US-Mexico Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,55068
+Sarles,ND,3409,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,52
+Vanceboro,ME,105,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,497
+Van Buren,ME,108,US-Canada Border,02/01/1996 12:00:00 AM,Buses,9
+Richford,VT,203,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,0
+Skagway,AK,3103,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Limestone,ME,118,US-Canada Border,02/01/1996 12:00:00 AM,Buses,1
+Tecate,CA,2505,US-Mexico Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Turner,MT,3306,US-Canada Border,02/01/1996 12:00:00 AM,Buses,12
+Highgate Springs-Alburg,VT,212,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Van Buren,ME,108,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,30065
+Hansboro,ND,3415,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,0
+Sasabe,AZ,2606,US-Mexico Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Whitetail,MT,3312,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,723
+Calexico East,CA,2507,US-Mexico Border,02/01/1996 12:00:00 AM,Truck Containers Empty,0
+Oroville,WA,3019,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Calais,ME,115,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,1507
+Hannah,ND,3408,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,515
+Roma,TX,2310,US-Mexico Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,325276
+Dunseith,ND,3422,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,708
+Sarles,ND,3409,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,0
+Calexico,CA,2503,US-Mexico Border,02/01/1996 12:00:00 AM,Buses,92
+Maida,ND,3416,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Grand Portage,MN,3613,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Fortuna,ND,3417,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,2445
+Warroad,MN,3423,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,397
+Rio Grande City,TX,2307,US-Mexico Border,02/01/1996 12:00:00 AM,Buses,0
+Buffalo-Niagara Falls,NY,901,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,0
+Trout River,NY,715,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,183
+Bridgewater,ME,127,US-Canada Border,02/01/1996 12:00:00 AM,Buses,0
+Beecher Falls,VT,206,US-Canada Border,02/01/1996 12:00:00 AM,Buses,2
+Brownsville,TX,2301,US-Mexico Border,02/01/1996 12:00:00 AM,Personal Vehicles,470060
+El Paso,TX,2402,US-Mexico Border,02/01/1996 12:00:00 AM,Trains,52
+Santa Teresa,NM,2408,US-Mexico Border,02/01/1996 12:00:00 AM,Pedestrians,6
+Ogdensburg,NY,701,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,21200
+Tecate,CA,2505,US-Mexico Border,02/01/1996 12:00:00 AM,Pedestrians,20616
+Otay Mesa,CA,2506,US-Mexico Border,02/01/1996 12:00:00 AM,Rail Containers Full,1
+Santa Teresa,NM,2408,US-Mexico Border,02/01/1996 12:00:00 AM,Trucks,952
+Westhope,ND,3419,US-Canada Border,02/01/1996 12:00:00 AM,Buses,0
+Douglas,AZ,2601,US-Mexico Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Maida,ND,3416,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,0
+Ogdensburg,NY,701,US-Canada Border,02/01/1996 12:00:00 AM,Buses,44
+Ambrose,ND,3410,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,0
+Alcan,AK,3104,US-Canada Border,02/01/1996 12:00:00 AM,Buses,0
+Morgan,MT,3319,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,110
+Bridgewater,ME,127,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,10271
+Metaline Falls,WA,3025,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,0
+Metaline Falls,WA,3025,US-Canada Border,02/01/1996 12:00:00 AM,Buses,4
+Detroit,MI,3801,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,1017
+Walhalla,ND,3407,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,0
+Lukeville,AZ,2602,US-Mexico Border,02/01/1996 12:00:00 AM,Personal Vehicles,23937
+Trout River,NY,715,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,74
+Roma,TX,2310,US-Mexico Border,02/01/1996 12:00:00 AM,Train Passengers,0
+Laredo,TX,2304,US-Mexico Border,02/01/1996 12:00:00 AM,Buses,1519
+Raymond,MT,3301,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,1527
+Columbus,NM,2406,US-Mexico Border,02/01/1996 12:00:00 AM,Truck Containers Empty,61
+International Falls-Ranier,MN,3604,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,3640
+Madawaska,ME,109,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,143317
+Frontier,WA,3020,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,0
+Fort Kent,ME,110,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,51118
+Morgan,MT,3319,US-Canada Border,02/01/1996 12:00:00 AM,Buses,0
+Noyes,MN,3402,US-Canada Border,02/01/1996 12:00:00 AM,Trains,115
+Grand Portage,MN,3613,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,24232
+Jackman,ME,104,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,966
+Oroville,WA,3019,US-Canada Border,02/01/1996 12:00:00 AM,Buses,50
+Houlton,ME,106,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,688
+Eagle Pass,TX,2303,US-Mexico Border,02/01/1996 12:00:00 AM,Bus Passengers,359
+Hansboro,ND,3415,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,1463
+Blaine,WA,3004,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,20249
+Scobey,MT,3309,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,0
+Piegan,MT,3316,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,15
+Westhope,ND,3419,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,1394
+Frontier,WA,3020,US-Canada Border,02/01/1996 12:00:00 AM,Buses,74
+Grand Portage,MN,3613,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,2721
+Point Roberts,WA,3017,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Fortuna,ND,3417,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,0
+Alcan,AK,3104,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,385
+Port Huron,MI,3802,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,1308
+Norton,VT,211,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,8909
+Neche,ND,3404,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+San Ysidro,CA,2504,US-Mexico Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Westhope,ND,3419,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Progreso,TX,2309,US-Mexico Border,02/01/1996 12:00:00 AM,Pedestrians,154695
+Roseau,MN,3426,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,3653
+Boundary,WA,3015,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,0
+Otay Mesa,CA,2506,US-Mexico Border,02/01/1996 12:00:00 AM,Pedestrians,38844
+Noyes,MN,3402,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,5590
+Boundary,WA,3015,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,0
+Alexandria Bay,NY,708,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,90387
+Roosville,MT,3318,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Lynden,WA,3023,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,1088
+Limestone,ME,118,US-Canada Border,02/01/1996 12:00:00 AM,Trains,0
+Boundary,WA,3015,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,0
+Roseau,MN,3426,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,481
+Highgate Springs-Alburg,VT,212,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,21534
+Massena,NY,704,US-Canada Border,02/01/1996 12:00:00 AM,Buses,310
+San Luis,AZ,2608,US-Mexico Border,02/01/1996 12:00:00 AM,Pedestrians,262070
+Sumas,WA,3009,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,212032
+Lukeville,AZ,2602,US-Mexico Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+San Luis,AZ,2608,US-Mexico Border,02/01/1996 12:00:00 AM,Truck Containers Empty,988
+Eagle Pass,TX,2303,US-Mexico Border,02/01/1996 12:00:00 AM,Truck Containers Full,2685
+Scobey,MT,3309,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,3
+Richford,VT,203,US-Canada Border,02/01/1996 12:00:00 AM,Trains,11
+Dalton Cache,AK,3106,US-Canada Border,02/01/1996 12:00:00 AM,Buses,75
+Richford,VT,203,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,44
+Pinecreek,MN,3425,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,0
+Limestone,ME,118,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,0
+Scobey,MT,3309,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,447
+Noyes,MN,3402,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,2110
+Calexico East,CA,2507,US-Mexico Border,02/01/1996 12:00:00 AM,Bus Passengers,0
+Morgan,MT,3319,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,0
+Boundary,WA,3015,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Dalton Cache,AK,3106,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Alcan,AK,3104,US-Canada Border,02/01/1996 12:00:00 AM,Trains,0
+Ferry,WA,3013,US-Canada Border,02/01/1996 12:00:00 AM,Buses,6
+Eastport,ID,3302,US-Canada Border,02/01/1996 12:00:00 AM,Buses,20
+Progreso,TX,2309,US-Mexico Border,02/01/1996 12:00:00 AM,Personal Vehicles,88521
+Columbus,NM,2406,US-Mexico Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Pinecreek,MN,3425,US-Canada Border,02/01/1996 12:00:00 AM,Trains,0
+Roosville,MT,3318,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,85
+Raymond,MT,3301,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,1
+Walhalla,ND,3407,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Northgate,ND,3406,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Del Rio,TX,2302,US-Mexico Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Sherwood,ND,3414,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,148
+Antler,ND,3413,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,36
+Ferry,WA,3013,US-Canada Border,02/01/1996 12:00:00 AM,Trains,0
+Calexico,CA,2503,US-Mexico Border,02/01/1996 12:00:00 AM,Personal Vehicles,528890
+Warroad,MN,3423,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Alexandria Bay,NY,708,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,3413
+Van Buren,ME,108,US-Canada Border,02/01/1996 12:00:00 AM,Trains,0
+Porthill,ID,3308,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,15604
+Fort Fairfield,ME,107,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Metaline Falls,WA,3025,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,373
+Point Roberts,WA,3017,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,0
+St. John,ND,3405,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,0
+Jackman,ME,104,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,51
+Noonan,ND,3420,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,7132
+Nighthawk,WA,3011,US-Canada Border,02/01/1996 12:00:00 AM,Buses,0
+Pinecreek,MN,3425,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Porthill,ID,3308,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,8669
+Sherwood,ND,3414,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,7
+Noyes,MN,3402,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,345
+Hansboro,ND,3415,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,695
+Hansboro,ND,3415,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,0
+Pembina,ND,3401,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,1550
+Champlain-Rouses Point,NY,712,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Otay Mesa,CA,2506,US-Mexico Border,02/01/1996 12:00:00 AM,Bus Passengers,10536
+Blaine,WA,3004,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,297396
+Ambrose,ND,3410,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,34
+Trout River,NY,715,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,0
+Madawaska,ME,109,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,711
+Del Rio,TX,2302,US-Mexico Border,02/01/1996 12:00:00 AM,Bus Passengers,560
+Del Bonita,MT,3322,US-Canada Border,02/01/1996 12:00:00 AM,Buses,0
+Portland,ME,101,US-Canada Border,02/01/1996 12:00:00 AM,Buses,0
+Metaline Falls,WA,3025,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Antler,ND,3413,US-Canada Border,02/01/1996 12:00:00 AM,Trains,0
+Opheim,MT,3317,US-Canada Border,02/01/1996 12:00:00 AM,Buses,0
+Brownsville,TX,2301,US-Mexico Border,02/01/1996 12:00:00 AM,Buses,417
+Metaline Falls,WA,3025,US-Canada Border,02/01/1996 12:00:00 AM,Trains,0
+Lynden,WA,3023,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,2071
+Massena,NY,704,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,197571
+Massena,NY,704,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,0
+Rio Grande City,TX,2307,US-Mexico Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,152928
+Sweetgrass,MT,3310,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,1461
+Ogdensburg,NY,701,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,35
+Calais,ME,115,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,314
+Otay Mesa,CA,2506,US-Mexico Border,02/01/1996 12:00:00 AM,Truck Containers Empty,19705
+Frontier,WA,3020,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,4338
+Danville,WA,3012,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,0
+Boundary,WA,3015,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,4819
+Blaine,WA,3004,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,2097
+Blaine,WA,3004,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,858
+Del Bonita,MT,3322,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,0
+Del Bonita,MT,3322,US-Canada Border,02/01/1996 12:00:00 AM,Trains,0
+Madawaska,ME,109,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,1442
+Sherwood,ND,3414,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,0
+Sweetgrass,MT,3310,US-Canada Border,02/01/1996 12:00:00 AM,Buses,80
+Lukeville,AZ,2602,US-Mexico Border,02/01/1996 12:00:00 AM,Bus Passengers,1677
+Carbury,ND,3421,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicle Passengers,2548
+Santa Teresa,NM,2408,US-Mexico Border,02/01/1996 12:00:00 AM,Truck Containers Full,305
+Presidio,TX,2403,US-Mexico Border,02/01/1996 12:00:00 AM,Personal Vehicles,43509
+Norton,VT,211,US-Canada Border,02/01/1996 12:00:00 AM,Trains,50
+Sasabe,AZ,2606,US-Mexico Border,02/01/1996 12:00:00 AM,Bus Passengers,0
+Roosville,MT,3318,US-Canada Border,02/01/1996 12:00:00 AM,Trains,0
+Roseau,MN,3426,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,24
+Norton,VT,211,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,317
+Champlain-Rouses Point,NY,712,US-Canada Border,02/01/1996 12:00:00 AM,Trains,96
+Point Roberts,WA,3017,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,1389
+Portal,ND,3403,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,4354
+Calexico East,CA,2507,US-Mexico Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Richford,VT,203,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,0
+Ferry,WA,3013,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Massena,NY,704,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,9
+Douglas,AZ,2601,US-Mexico Border,02/01/1996 12:00:00 AM,Trains,0
+Vanceboro,ME,105,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,46
+Nighthawk,WA,3011,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,0
+Maida,ND,3416,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,0
+Sweetgrass,MT,3310,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,1223
+Derby Line,VT,209,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,76
+Northgate,ND,3406,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,0
+Opheim,MT,3317,US-Canada Border,02/01/1996 12:00:00 AM,Personal Vehicles,526
+Sweetgrass,MT,3310,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,124
+Oroville,WA,3019,US-Canada Border,02/01/1996 12:00:00 AM,Train Passengers,0
+Rio Grande City,TX,2307,US-Mexico Border,02/01/1996 12:00:00 AM,Bus Passengers,0
+Sweetgrass,MT,3310,US-Canada Border,02/01/1996 12:00:00 AM,Bus Passengers,1229
+Porthill,ID,3308,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,0
+Naco,AZ,2603,US-Mexico Border,02/01/1996 12:00:00 AM,Rail Containers Full,0
+Noonan,ND,3420,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,0
+Sarles,ND,3409,US-Canada Border,02/01/1996 12:00:00 AM,Rail Containers Empty,0
+Eastport,ID,3302,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,3135
+Eagle Pass,TX,2303,US-Mexico Border,02/01/1996 12:00:00 AM,Rail Containers Empty,1216
+Richford,VT,203,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,0
+Pembina,ND,3401,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Full,10076
+Piegan,MT,3316,US-Canada Border,02/01/1996 12:00:00 AM,Pedestrians,9
+Detroit,MI,3801,US-Canada Border,02/01/1996 12:00:00 AM,Trucks,109917
+Laurier,WA,3016,US-Canada Border,02/01/1996 12:00:00 AM,Truck Containers Empty,0
+Sault Sainte Marie,MI,3803,US-Canada Border,02/01/1996 12:00:00 AM,Trains,46
+St. John,ND,3405,US-Canada Border,02/01/1996 12:00:00 AM,Buses,0
+Naco,AZ,2603,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Roseau,MN,3426,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,7281
+Sault Sainte Marie,MI,3803,US-Canada Border,01/01/1996 12:00:00 AM,Buses,775
+Beecher Falls,VT,206,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Limestone,ME,118,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,3879
+Calais,ME,115,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Rio Grande City,TX,2307,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Whitetail,MT,3312,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Ferry,WA,3013,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,183
+Frontier,WA,3020,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,682
+Pembina,ND,3401,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,10628
+Skagway,AK,3103,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Tornillo-Fabens,TX,2404,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,10
+Sumas,WA,3009,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+El Paso,TX,2402,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,326808
+Opheim,MT,3317,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Beecher Falls,VT,206,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,7126
+Jackman,ME,104,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,2103
+Rio Grande City,TX,2307,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,313
+Lynden,WA,3023,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Highgate Springs-Alburg,VT,212,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Beecher Falls,VT,206,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Morgan,MT,3319,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,393
+Champlain-Rouses Point,NY,712,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Laredo,TX,2304,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,22210
+Laredo,TX,2304,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Ogdensburg,NY,701,US-Canada Border,01/01/1996 12:00:00 AM,Buses,28
+Alexandria Bay,NY,708,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Metaline Falls,WA,3025,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,526
+Maida,ND,3416,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Hansboro,ND,3415,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Pembina,ND,3401,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,0
+Roma,TX,2310,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Hannah,ND,3408,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Pinecreek,MN,3425,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Trout River,NY,715,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Lynden,WA,3023,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,296
+Piegan,MT,3316,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,74
+Roseau,MN,3426,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Richford,VT,203,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,20687
+Norton,VT,211,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,9119
+Ferry,WA,3013,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,10
+Portal,ND,3403,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,330
+Douglas,AZ,2601,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,354777
+Noyes,MN,3402,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Alcan,AK,3104,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,9
+Nighthawk,WA,3011,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,24
+Roosville,MT,3318,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,1788
+Sault Sainte Marie,MI,3803,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,1130
+Trout River,NY,715,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,153
+Trout River,NY,715,US-Canada Border,01/01/1996 12:00:00 AM,Trains,51
+Douglas,AZ,2601,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,28732
+Presidio,TX,2403,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,40
+Massena,NY,704,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Walhalla,ND,3407,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Antler,ND,3413,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,869
+Calexico East,CA,2507,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Santa Teresa,NM,2408,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,254
+Fortuna,ND,3417,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Pembina,ND,3401,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Richford,VT,203,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Noonan,ND,3420,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,77
+Grand Portage,MN,3613,US-Canada Border,01/01/1996 12:00:00 AM,Buses,126
+Skagway,AK,3103,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Noonan,ND,3420,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Fort Fairfield,ME,107,US-Canada Border,01/01/1996 12:00:00 AM,Buses,15
+Alexandria Bay,NY,708,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,80615
+Dunseith,ND,3422,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Neche,ND,3404,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Laredo,TX,2304,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,38957
+Whitetail,MT,3312,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Portland,ME,101,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,0
+Detroit,MI,3801,US-Canada Border,01/01/1996 12:00:00 AM,Trains,315
+Jackman,ME,104,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,77
+Whitlash,MT,3321,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Carbury,ND,3421,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Westhope,ND,3419,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,452
+Alcan,AK,3104,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Madawaska,ME,109,US-Canada Border,01/01/1996 12:00:00 AM,Buses,9
+Roseau,MN,3426,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Otay Mesa,CA,2506,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,39263
+Madawaska,ME,109,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,142
+St. John,ND,3405,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Sweetgrass,MT,3310,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,1117
+St. John,ND,3405,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Whitlash,MT,3321,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Progreso,TX,2309,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,0
+Presidio,TX,2403,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,129948
+Morgan,MT,3319,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Sarles,ND,3409,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Turner,MT,3306,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Sault Sainte Marie,MI,3803,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,111
+Roseau,MN,3426,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,5
+Morgan,MT,3319,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Andrade,CA,2502,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,301
+Sarles,ND,3409,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,580
+Dunseith,ND,3422,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Morgan,MT,3319,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Walhalla,ND,3407,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Westhope,ND,3419,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Limestone,ME,118,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,303
+Limestone,ME,118,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,7861
+Grand Portage,MN,3613,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+El Paso,TX,2402,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,1248022
+Calais,ME,115,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,897
+Laurier,WA,3016,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,909
+Grand Portage,MN,3613,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,23247
+Santa Teresa,NM,2408,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Limestone,ME,118,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Carbury,ND,3421,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,1049
+Massena,NY,704,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,198027
+Fort Kent,ME,110,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Vanceboro,ME,105,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,4
+Beecher Falls,VT,206,US-Canada Border,01/01/1996 12:00:00 AM,Buses,6
+Maida,ND,3416,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Port Huron,MI,3802,US-Canada Border,01/01/1996 12:00:00 AM,Trains,299
+Opheim,MT,3317,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,547
+Oroville,WA,3019,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,42215
+Vanceboro,ME,105,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,48
+El Paso,TX,2402,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Naco,AZ,2603,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,0
+Danville,WA,3012,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Eastport,ID,3302,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,26
+Santa Teresa,NM,2408,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Douglas,AZ,2601,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,270
+Detroit,MI,3801,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,1737820
+Laredo,TX,2304,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,4113
+Presidio,TX,2403,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,147
+Sweetgrass,MT,3310,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,1111
+Dunseith,ND,3422,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,1932
+Noonan,ND,3420,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+San Ysidro,CA,2504,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Eagle Pass,TX,2303,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,366
+Massena,NY,704,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Buffalo-Niagara Falls,NY,901,US-Canada Border,01/01/1996 12:00:00 AM,Buses,1813
+International Falls-Ranier,MN,3604,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Sasabe,AZ,2606,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,5395
+Carbury,ND,3421,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,144
+Dalton Cache,AK,3106,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Dalton Cache,AK,3106,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,94
+Limestone,ME,118,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,13
+Turner,MT,3306,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Champlain-Rouses Point,NY,712,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,95
+Jackman,ME,104,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,929
+Port Huron,MI,3802,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,15386
+Norton,VT,211,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,106
+Otay Mesa,CA,2506,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,796268
+Carbury,ND,3421,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,2328
+Boundary,WA,3015,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Sasabe,AZ,2606,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Noyes,MN,3402,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,1212
+Frontier,WA,3020,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,3981
+Buffalo-Niagara Falls,NY,901,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,5293
+Point Roberts,WA,3017,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,66349
+Laurier,WA,3016,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,23
+Lukeville,AZ,2602,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Frontier,WA,3020,US-Canada Border,01/01/1996 12:00:00 AM,Trains,21
+International Falls-Ranier,MN,3604,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,184
+Alcan,AK,3104,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,965
+Roma,TX,2310,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,0
+Vanceboro,ME,105,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,467
+Norton,VT,211,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,6064
+Richford,VT,203,US-Canada Border,01/01/1996 12:00:00 AM,Buses,3
+Frontier,WA,3020,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Derby Line,VT,209,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,0
+Port Huron,MI,3802,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,51754
+Brownsville,TX,2301,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Point Roberts,WA,3017,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,1082
+Maida,ND,3416,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,2336
+Point Roberts,WA,3017,US-Canada Border,01/01/1996 12:00:00 AM,Buses,68
+Oroville,WA,3019,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Porthill,ID,3308,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Tecate,CA,2505,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,1635
+Piegan,MT,3316,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Skagway,AK,3103,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Columbus,NM,2406,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Roma,TX,2310,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,1002
+Point Roberts,WA,3017,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,132698
+Rio Grande City,TX,2307,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,8004
+Tornillo-Fabens,TX,2404,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,0
+Vanceboro,ME,105,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,64
+Roseau,MN,3426,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Detroit,MI,3801,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,633393
+Bridgewater,ME,127,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,30814
+Turner,MT,3306,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,717
+Detroit,MI,3801,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Opheim,MT,3317,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Highgate Springs-Alburg,VT,212,US-Canada Border,01/01/1996 12:00:00 AM,Trains,29
+Laredo,TX,2304,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,70438
+Otay Mesa,CA,2506,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,1558
+Sherwood,ND,3414,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,221
+Limestone,ME,118,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Calexico East,CA,2507,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Noonan,ND,3420,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,11
+Calexico,CA,2503,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,521
+Metaline Falls,WA,3025,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Danville,WA,3012,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,88
+Turner,MT,3306,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Portland,ME,101,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Hidalgo,TX,2305,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,4648
+Rio Grande City,TX,2307,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,0
+Presidio,TX,2403,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,119
+International Falls-Ranier,MN,3604,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,4510
+Noonan,ND,3420,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Portal,ND,3403,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Calexico,CA,2503,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,592466
+Noyes,MN,3402,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,665
+Port Huron,MI,3802,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,5280
+Sasabe,AZ,2606,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Dunseith,ND,3422,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Raymond,MT,3301,US-Canada Border,01/01/1996 12:00:00 AM,Buses,4
+Fort Fairfield,ME,107,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,310
+Nighthawk,WA,3011,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Roma,TX,2310,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,383
+Trout River,NY,715,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Skagway,AK,3103,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,624
+Sumas,WA,3009,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,2535
+Norton,VT,211,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,1417
+Calexico East,CA,2507,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+St. John,ND,3405,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Sumas,WA,3009,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,195738
+Blaine,WA,3004,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,32055
+Beecher Falls,VT,206,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,11293
+Portland,ME,101,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Beecher Falls,VT,206,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Pembina,ND,3401,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,0
+Jackman,ME,104,US-Canada Border,01/01/1996 12:00:00 AM,Buses,21
+Hannah,ND,3408,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+St. John,ND,3405,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Sarles,ND,3409,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Progreso,TX,2309,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,1346
+Ogdensburg,NY,701,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,2221
+Metaline Falls,WA,3025,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Roosville,MT,3318,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,47
+Jackman,ME,104,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,102
+Nighthawk,WA,3011,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Roosville,MT,3318,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,32
+Oroville,WA,3019,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Brownsville,TX,2301,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,928
+Whitetail,MT,3312,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Nighthawk,WA,3011,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,3
+Andrade,CA,2502,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,55412
+Presidio,TX,2403,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,347
+Calexico East,CA,2507,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Ferry,WA,3013,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,1359
+Tecate,CA,2505,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,1038
+Tornillo-Fabens,TX,2404,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,49007
+Hidalgo,TX,2305,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,1707553
+Metaline Falls,WA,3025,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,1885
+International Falls-Ranier,MN,3604,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Portal,ND,3403,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Douglas,AZ,2601,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,699
+Hansboro,ND,3415,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Turner,MT,3306,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Naco,AZ,2603,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Progreso,TX,2309,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,691
+Houlton,ME,106,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Lukeville,AZ,2602,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,5801
+Hannah,ND,3408,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,33
+Van Buren,ME,108,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,62323
+San Ysidro,CA,2504,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,0
+Oroville,WA,3019,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Trout River,NY,715,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,12
+Ambrose,ND,3410,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Dunseith,ND,3422,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,8853
+Sherwood,ND,3414,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,1430
+Portland,ME,101,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,0
+Port Huron,MI,3802,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,319994
+Skagway,AK,3103,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Neche,ND,3404,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Presidio,TX,2403,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,250
+Rio Grande City,TX,2307,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Detroit,MI,3801,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,945
+Derby Line,VT,209,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,0
+Morgan,MT,3319,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Antler,ND,3413,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Madawaska,ME,109,US-Canada Border,01/01/1996 12:00:00 AM,Trains,26
+St. John,ND,3405,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Sherwood,ND,3414,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,239
+Tecate,CA,2505,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,86987
+Calexico,CA,2503,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,21
+Pembina,ND,3401,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Baudette,MN,3424,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,612
+Roseau,MN,3426,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,531
+Laredo,TX,2304,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,1873
+Laurier,WA,3016,US-Canada Border,01/01/1996 12:00:00 AM,Buses,15
+Rio Grande City,TX,2307,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Ambrose,ND,3410,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Roosville,MT,3318,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,1213
+Santa Teresa,NM,2408,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,5
+Sarles,ND,3409,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Houlton,ME,106,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Lynden,WA,3023,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,507
+Scobey,MT,3309,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+St. John,ND,3405,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,1485
+Hansboro,ND,3415,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,1612
+Lukeville,AZ,2602,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,29
+Laredo,TX,2304,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,27816
+San Ysidro,CA,2504,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,0
+Ogdensburg,NY,701,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,566
+Del Bonita,MT,3322,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Porthill,ID,3308,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Fortuna,ND,3417,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,14
+Norton,VT,211,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,1099
+Fort Fairfield,ME,107,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Del Bonita,MT,3322,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,5509
+Fort Kent,ME,110,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,53640
+San Luis,AZ,2608,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,320
+Carbury,ND,3421,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Point Roberts,WA,3017,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,417
+Lynden,WA,3023,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Otay Mesa,CA,2506,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,13944
+Sault Sainte Marie,MI,3803,US-Canada Border,01/01/1996 12:00:00 AM,Trains,37
+Calais,ME,115,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,187
+Otay Mesa,CA,2506,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,20862
+Roma,TX,2310,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,623
+Fort Kent,ME,110,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,37
+Walhalla,ND,3407,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Eastport,ID,3302,US-Canada Border,01/01/1996 12:00:00 AM,Trains,43
+Pinecreek,MN,3425,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,20
+Frontier,WA,3020,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,9728
+Neche,ND,3404,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,637
+Boundary,WA,3015,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,4246
+Progreso,TX,2309,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,414
+Ferry,WA,3013,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Buffalo-Niagara Falls,NY,901,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Roosville,MT,3318,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Brownsville,TX,2301,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,8075
+Tecate,CA,2505,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,21053
+Boundary,WA,3015,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Sumas,WA,3009,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Nighthawk,WA,3011,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,888
+Del Bonita,MT,3322,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Antler,ND,3413,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Sherwood,ND,3414,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Warroad,MN,3423,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,5800
+Madawaska,ME,109,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,187
+Hannah,ND,3408,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Buffalo-Niagara Falls,NY,901,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Hidalgo,TX,2305,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,227396
+Blaine,WA,3004,US-Canada Border,01/01/1996 12:00:00 AM,Buses,899
+San Luis,AZ,2608,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,1250
+Del Rio,TX,2302,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,598
+Douglas,AZ,2601,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,154251
+Van Buren,ME,108,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Hansboro,ND,3415,US-Canada Border,01/01/1996 12:00:00 AM,Buses,12
+Ambrose,ND,3410,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Alcan,AK,3104,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Brownsville,TX,2301,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,490599
+Del Bonita,MT,3322,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Douglas,AZ,2601,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,1118
+Maida,ND,3416,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+San Luis,AZ,2608,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,300427
+Northgate,ND,3406,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,1107
+Port Huron,MI,3802,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,47473
+Noyes,MN,3402,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,5467
+Hidalgo,TX,2305,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Calexico East,CA,2507,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,0
+Del Rio,TX,2302,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,751
+Morgan,MT,3319,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,728
+Warroad,MN,3423,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,2
+Sherwood,ND,3414,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Antler,ND,3413,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Richford,VT,203,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Van Buren,ME,108,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,388
+Grand Portage,MN,3613,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,8941
+El Paso,TX,2402,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,54
+Nighthawk,WA,3011,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Sasabe,AZ,2606,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,118
+Norton,VT,211,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,101
+Fortuna,ND,3417,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Neche,ND,3404,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+San Luis,AZ,2608,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,240833
+Fort Kent,ME,110,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,25620
+Laredo,TX,2304,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,1350041
+Raymond,MT,3301,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,91
+Del Rio,TX,2302,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Tornillo-Fabens,TX,2404,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Limestone,ME,118,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Raymond,MT,3301,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Bridgewater,ME,127,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Nogales,AZ,2604,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,3941
+Antler,ND,3413,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Madawaska,ME,109,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,69214
+Richford,VT,203,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,133
+Warroad,MN,3423,US-Canada Border,01/01/1996 12:00:00 AM,Trains,218
+Ambrose,ND,3410,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,1130
+Boundary,WA,3015,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Sasabe,AZ,2606,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,374
+Ogdensburg,NY,701,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,3
+Whitlash,MT,3321,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Roseau,MN,3426,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Whitlash,MT,3321,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Presidio,TX,2403,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,75
+Alcan,AK,3104,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Detroit,MI,3801,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,35364
+Champlain-Rouses Point,NY,712,US-Canada Border,01/01/1996 12:00:00 AM,Trains,85
+Laurier,WA,3016,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Hidalgo,TX,2305,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,9794
+San Ysidro,CA,2504,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Brownsville,TX,2301,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,10170
+Whitlash,MT,3321,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,86
+Calexico,CA,2503,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,8028
+Calais,ME,115,US-Canada Border,01/01/1996 12:00:00 AM,Buses,12
+Nogales,AZ,2604,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,24959
+Brownsville,TX,2301,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,60
+Laredo,TX,2304,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,6544
+Calais,ME,115,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,8058
+Rio Grande City,TX,2307,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,46386
+Alcan,AK,3104,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,428
+Presidio,TX,2403,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,13
+Hansboro,ND,3415,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Sweetgrass,MT,3310,US-Canada Border,01/01/1996 12:00:00 AM,Trains,27
+Dalton Cache,AK,3106,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Calexico East,CA,2507,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,0
+Point Roberts,WA,3017,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Walhalla,ND,3407,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,171
+Blaine,WA,3004,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,641
+Columbus,NM,2406,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,87
+Fortuna,ND,3417,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Port Huron,MI,3802,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,1644
+Piegan,MT,3316,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,46
+Presidio,TX,2403,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,39
+Naco,AZ,2603,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,342
+Maida,ND,3416,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Metaline Falls,WA,3025,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Walhalla,ND,3407,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,19
+Limestone,ME,118,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Lukeville,AZ,2602,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,27
+International Falls-Ranier,MN,3604,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,1576
+Fort Fairfield,ME,107,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Sherwood,ND,3414,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Sasabe,AZ,2606,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,0
+Blaine,WA,3004,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,17958
+Ogdensburg,NY,701,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Boundary,WA,3015,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Noyes,MN,3402,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,49
+Calexico,CA,2503,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,90
+Northgate,ND,3406,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Santa Teresa,NM,2408,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,929
+Columbus,NM,2406,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,29486
+Northgate,ND,3406,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,8
+Naco,AZ,2603,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,0
+Del Rio,TX,2302,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Presidio,TX,2403,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,420
+Eagle Pass,TX,2303,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,366
+Highgate Springs-Alburg,VT,212,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,22009
+El Paso,TX,2402,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,1284
+Fort Fairfield,ME,107,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Eagle Pass,TX,2303,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,2388
+Danville,WA,3012,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Roma,TX,2310,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,401
+Whitetail,MT,3312,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,453
+Hansboro,ND,3415,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,768
+Naco,AZ,2603,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,123
+Port Huron,MI,3802,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,6997
+San Ysidro,CA,2504,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Derby Line,VT,209,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+St. John,ND,3405,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Buffalo-Niagara Falls,NY,901,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,44115
+Eastport,ID,3302,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,160
+Baudette,MN,3424,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Portland,ME,101,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Antler,ND,3413,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Ambrose,ND,3410,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Grand Portage,MN,3613,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Sweetgrass,MT,3310,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,6717
+Pembina,ND,3401,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+International Falls-Ranier,MN,3604,US-Canada Border,01/01/1996 12:00:00 AM,Buses,8
+Scobey,MT,3309,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Whitlash,MT,3321,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Highgate Springs-Alburg,VT,212,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+El Paso,TX,2402,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,2870450
+Laredo,TX,2304,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,312090
+Beecher Falls,VT,206,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Otay Mesa,CA,2506,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,267204
+Del Bonita,MT,3322,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Fortuna,ND,3417,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,829
+Roseau,MN,3426,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Bridgewater,ME,127,US-Canada Border,01/01/1996 12:00:00 AM,Buses,6
+Tornillo-Fabens,TX,2404,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,151997
+Fort Kent,ME,110,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,1333
+San Ysidro,CA,2504,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Otay Mesa,CA,2506,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,1
+Noyes,MN,3402,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,621
+Alcan,AK,3104,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Limestone,ME,118,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Sarles,ND,3409,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Sasabe,AZ,2606,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Massena,NY,704,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,71636
+Tornillo-Fabens,TX,2404,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Progreso,TX,2309,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,88240
+Nogales,AZ,2604,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,354810
+Point Roberts,WA,3017,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Opheim,MT,3317,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,13
+Noonan,ND,3420,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Fort Kent,ME,110,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Roma,TX,2310,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Laurier,WA,3016,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,8434
+Baudette,MN,3424,US-Canada Border,01/01/1996 12:00:00 AM,Buses,65
+Piegan,MT,3316,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Nogales,AZ,2604,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Rio Grande City,TX,2307,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,0
+Morgan,MT,3319,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Presidio,TX,2403,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,47254
+Nogales,AZ,2604,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,802136
+Alexandria Bay,NY,708,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Calexico East,CA,2507,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Noonan,ND,3420,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Dalton Cache,AK,3106,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+San Luis,AZ,2608,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Porthill,ID,3308,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Scobey,MT,3309,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+St. John,ND,3405,US-Canada Border,01/01/1996 12:00:00 AM,Buses,3
+Oroville,WA,3019,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,1558
+Warroad,MN,3423,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,11788
+Houlton,ME,106,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Ferry,WA,3013,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Beecher Falls,VT,206,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Pembina,ND,3401,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Hansboro,ND,3415,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,154
+Sault Sainte Marie,MI,3803,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,3141
+Houlton,ME,106,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Dunseith,ND,3422,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,768
+Highgate Springs-Alburg,VT,212,US-Canada Border,01/01/1996 12:00:00 AM,Buses,281
+Hannah,ND,3408,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Neche,ND,3404,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,95
+Morgan,MT,3319,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,142
+El Paso,TX,2402,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,21460
+Beecher Falls,VT,206,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,205
+Progreso,TX,2309,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,228542
+Northgate,ND,3406,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Fort Fairfield,ME,107,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Piegan,MT,3316,US-Canada Border,01/01/1996 12:00:00 AM,Buses,1
+Opheim,MT,3317,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,336
+Blaine,WA,3004,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,4171
+Pinecreek,MN,3425,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Portal,ND,3403,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,1711
+Andrade,CA,2502,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,207565
+Douglas,AZ,2601,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,2738
+Nogales,AZ,2604,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,804
+Nogales,AZ,2604,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,44
+International Falls-Ranier,MN,3604,US-Canada Border,01/01/1996 12:00:00 AM,Trains,266
+Ambrose,ND,3410,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Alcan,AK,3104,US-Canada Border,01/01/1996 12:00:00 AM,Buses,3
+Nogales,AZ,2604,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,289058
+Warroad,MN,3423,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,436
+Hannah,ND,3408,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Norton,VT,211,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,354
+Morgan,MT,3319,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Nogales,AZ,2604,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,19785
+Richford,VT,203,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,10841
+Ferry,WA,3013,US-Canada Border,01/01/1996 12:00:00 AM,Buses,8
+Portal,ND,3403,US-Canada Border,01/01/1996 12:00:00 AM,Trains,110
+Roma,TX,2310,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,8026
+Whitetail,MT,3312,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Sweetgrass,MT,3310,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,63599
+Porthill,ID,3308,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Sweetgrass,MT,3310,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,1500
+Trout River,NY,715,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,38
+Sumas,WA,3009,US-Canada Border,01/01/1996 12:00:00 AM,Buses,67
+Scobey,MT,3309,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,6
+Vanceboro,ME,105,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,92
+Madawaska,ME,109,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,706
+Frontier,WA,3020,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+International Falls-Ranier,MN,3604,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,81076
+Pembina,ND,3401,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Boundary,WA,3015,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Portland,ME,101,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Opheim,MT,3317,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Vanceboro,ME,105,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,20
+Northgate,ND,3406,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Hidalgo,TX,2305,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,66575
+Massena,NY,704,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+International Falls-Ranier,MN,3604,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,798
+Sarles,ND,3409,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Buffalo-Niagara Falls,NY,901,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,79055
+Westhope,ND,3419,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Calexico,CA,2503,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,1765548
+Skagway,AK,3103,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,331
+Alexandria Bay,NY,708,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,15546
+Hannah,ND,3408,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,916
+Blaine,WA,3004,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,292340
+Eagle Pass,TX,2303,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,1481
+Whitetail,MT,3312,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,7
+Champlain-Rouses Point,NY,712,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,25211
+Champlain-Rouses Point,NY,712,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,8869
+San Ysidro,CA,2504,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,0
+Turner,MT,3306,US-Canada Border,01/01/1996 12:00:00 AM,Buses,2
+Vanceboro,ME,105,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,8912
+Dunseith,ND,3422,US-Canada Border,01/01/1996 12:00:00 AM,Buses,22
+Sasabe,AZ,2606,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Skagway,AK,3103,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,1034
+Warroad,MN,3423,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Ogdensburg,NY,701,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,18404
+Columbus,NM,2406,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,1
+Boundary,WA,3015,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Blaine,WA,3004,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,2332
+Sarles,ND,3409,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,57
+Maida,ND,3416,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,100
+Calexico,CA,2503,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,147
+Hannah,ND,3408,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Sherwood,ND,3414,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Danville,WA,3012,US-Canada Border,01/01/1996 12:00:00 AM,Trains,22
+Port Huron,MI,3802,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,44
+Sarles,ND,3409,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Alcan,AK,3104,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,2011
+Baudette,MN,3424,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,46
+Bridgewater,ME,127,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,132
+Walhalla,ND,3407,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Portland,ME,101,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Otay Mesa,CA,2506,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,21
+Eastport,ID,3302,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,101
+Fort Kent,ME,110,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Nighthawk,WA,3011,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Alexandria Bay,NY,708,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,29758
+Baudette,MN,3424,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,500
+Lukeville,AZ,2602,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Carbury,ND,3421,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Neche,ND,3404,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,3447
+Porthill,ID,3308,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,16722
+Highgate Springs-Alburg,VT,212,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,44189
+Laurier,WA,3016,US-Canada Border,01/01/1996 12:00:00 AM,Trains,22
+Sumas,WA,3009,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,82087
+Morgan,MT,3319,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Eastport,ID,3302,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,2482
+Baudette,MN,3424,US-Canada Border,01/01/1996 12:00:00 AM,Trains,107
+Sweetgrass,MT,3310,US-Canada Border,01/01/1996 12:00:00 AM,Buses,72
+Nighthawk,WA,3011,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Whitetail,MT,3312,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Scobey,MT,3309,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Porthill,ID,3308,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,4
+Sweetgrass,MT,3310,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,17805
+Baudette,MN,3424,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,344
+Carbury,ND,3421,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Eastport,ID,3302,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,8802
+Brownsville,TX,2301,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,8180
+Noonan,ND,3420,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,5728
+Skagway,AK,3103,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,8
+Danville,WA,3012,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,41
+Sumas,WA,3009,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Roma,TX,2310,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,35148
+Alexandria Bay,NY,708,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,160
+Massena,NY,704,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,3796
+Oroville,WA,3019,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Calais,ME,115,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,243489
+Sherwood,ND,3414,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,3151
+Jackman,ME,104,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,15943
+Alexandria Bay,NY,708,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Porthill,ID,3308,US-Canada Border,01/01/1996 12:00:00 AM,Buses,1
+Fortuna,ND,3417,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,1997
+Van Buren,ME,108,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,74
+Lynden,WA,3023,US-Canada Border,01/01/1996 12:00:00 AM,Buses,19
+Houlton,ME,106,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,7537
+Whitlash,MT,3321,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Northgate,ND,3406,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Frontier,WA,3020,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Sumas,WA,3009,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,352
+Grand Portage,MN,3613,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,2818
+Hannah,ND,3408,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Raymond,MT,3301,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Jackman,ME,104,US-Canada Border,01/01/1996 12:00:00 AM,Trains,31
+Sault Sainte Marie,MI,3803,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,313965
+Naco,AZ,2603,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Westhope,ND,3419,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Dalton Cache,AK,3106,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Del Rio,TX,2302,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,400354
+Dalton Cache,AK,3106,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Andrade,CA,2502,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Bridgewater,ME,127,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,2
+St. John,ND,3405,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,67
+Massena,NY,704,US-Canada Border,01/01/1996 12:00:00 AM,Buses,267
+Lynden,WA,3023,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Skagway,AK,3103,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Madawaska,ME,109,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,292
+Pembina,ND,3401,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Houlton,ME,106,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,3
+Porthill,ID,3308,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,9290
+Dalton Cache,AK,3106,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,1234
+Detroit,MI,3801,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,106432
+Whitlash,MT,3321,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Pinecreek,MN,3425,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,442
+Derby Line,VT,209,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Turner,MT,3306,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,37
+Lukeville,AZ,2602,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,1131
+Ferry,WA,3013,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Raymond,MT,3301,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,849
+San Ysidro,CA,2504,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,0
+San Luis,AZ,2608,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Tornillo-Fabens,TX,2404,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Madawaska,ME,109,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,574
+Pinecreek,MN,3425,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,919
+Warroad,MN,3423,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Alexandria Bay,NY,708,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Pembina,ND,3401,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,1663
+Eagle Pass,TX,2303,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,3059
+Derby Line,VT,209,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Boundary,WA,3015,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Oroville,WA,3019,US-Canada Border,01/01/1996 12:00:00 AM,Buses,43
+Trout River,NY,715,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,12441
+Whitlash,MT,3321,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,63
+Andrade,CA,2502,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,0
+Jackman,ME,104,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,1261
+Rio Grande City,TX,2307,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,162351
+Skagway,AK,3103,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Roseau,MN,3426,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Grand Portage,MN,3613,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Houlton,ME,106,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Detroit,MI,3801,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Columbus,NM,2406,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,44379
+Alcan,AK,3104,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Pembina,ND,3401,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,0
+Eagle Pass,TX,2303,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,34716
+Otay Mesa,CA,2506,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,42
+Warroad,MN,3423,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,2075
+Brownsville,TX,2301,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,3981
+Nighthawk,WA,3011,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Noonan,ND,3420,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,44
+Sasabe,AZ,2606,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Detroit,MI,3801,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,6231
+Fort Kent,ME,110,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Calexico,CA,2503,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,86
+Richford,VT,203,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Northgate,ND,3406,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,2533
+International Falls-Ranier,MN,3604,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,27214
+Grand Portage,MN,3613,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,3192
+Danville,WA,3012,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Santa Teresa,NM,2408,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,7078
+Andrade,CA,2502,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,425
+Detroit,MI,3801,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,54958
+Norton,VT,211,US-Canada Border,01/01/1996 12:00:00 AM,Trains,49
+Pembina,ND,3401,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Del Bonita,MT,3322,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,1674
+Ambrose,ND,3410,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Dunseith,ND,3422,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Oroville,WA,3019,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Blaine,WA,3004,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,21071
+Douglas,AZ,2601,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Sarles,ND,3409,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Houlton,ME,106,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,76650
+Santa Teresa,NM,2408,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Point Roberts,WA,3017,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Progreso,TX,2309,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Portal,ND,3403,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,771
+Ferry,WA,3013,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Rio Grande City,TX,2307,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,133
+Fortuna,ND,3417,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Hansboro,ND,3415,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,556
+Eastport,ID,3302,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,3250
+Massena,NY,704,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,11
+Rio Grande City,TX,2307,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,734
+Bridgewater,ME,127,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Laurier,WA,3016,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Andrade,CA,2502,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Norton,VT,211,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,130
+Westhope,ND,3419,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,778
+Hansboro,ND,3415,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Otay Mesa,CA,2506,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,18287
+Port Huron,MI,3802,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,132425
+Madawaska,ME,109,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,152271
+Sasabe,AZ,2606,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,2075
+Sault Sainte Marie,MI,3803,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,346
+Tornillo-Fabens,TX,2404,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,0
+Eastport,ID,3302,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,3578
+Westhope,ND,3419,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+San Luis,AZ,2608,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,2800
+Dalton Cache,AK,3106,US-Canada Border,01/01/1996 12:00:00 AM,Buses,74
+Calais,ME,115,US-Canada Border,01/01/1996 12:00:00 AM,Trains,16
+Laurier,WA,3016,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,4266
+Hidalgo,TX,2305,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Vanceboro,ME,105,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,4051
+Metaline Falls,WA,3025,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Calais,ME,115,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,297
+Ogdensburg,NY,701,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,34
+Maida,ND,3416,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Dalton Cache,AK,3106,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,55
+Sarles,ND,3409,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,285
+Fortuna,ND,3417,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,332
+Buffalo-Niagara Falls,NY,901,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,2054
+Roosville,MT,3318,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,11954
+Lynden,WA,3023,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,105008
+Eagle Pass,TX,2303,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,4219
+Houlton,ME,106,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,28794
+Oroville,WA,3019,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,45
+Northgate,ND,3406,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,2084
+Point Roberts,WA,3017,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,681
+Carbury,ND,3421,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Fort Fairfield,ME,107,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Lukeville,AZ,2602,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,0
+Dunseith,ND,3422,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Lynden,WA,3023,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Metaline Falls,WA,3025,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Scobey,MT,3309,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Whitlash,MT,3321,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Walhalla,ND,3407,US-Canada Border,01/01/1996 12:00:00 AM,Buses,1
+Frontier,WA,3020,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,63
+Raymond,MT,3301,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Vanceboro,ME,105,US-Canada Border,01/01/1996 12:00:00 AM,Trains,21
+Bridgewater,ME,127,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Calexico East,CA,2507,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,0
+Limestone,ME,118,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Ferry,WA,3013,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Alexandria Bay,NY,708,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Westhope,ND,3419,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Portal,ND,3403,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,5511
+Westhope,ND,3419,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Beecher Falls,VT,206,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Antler,ND,3413,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Van Buren,ME,108,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Tecate,CA,2505,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,312
+Detroit,MI,3801,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Derby Line,VT,209,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,718
+Jackman,ME,104,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,671
+Lukeville,AZ,2602,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,212
+Columbus,NM,2406,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,0
+Dalton Cache,AK,3106,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Champlain-Rouses Point,NY,712,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,1727
+Porthill,ID,3308,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,576
+Noonan,ND,3420,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Portland,ME,101,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Eagle Pass,TX,2303,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,460
+Champlain-Rouses Point,NY,712,US-Canada Border,01/01/1996 12:00:00 AM,Buses,388
+Baudette,MN,3424,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,30262
+Calexico,CA,2503,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,756342
+International Falls-Ranier,MN,3604,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Laredo,TX,2304,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,541559
+Sumas,WA,3009,US-Canada Border,01/01/1996 12:00:00 AM,Trains,88
+Scobey,MT,3309,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Tecate,CA,2505,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,1
+Roma,TX,2310,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,352223
+Walhalla,ND,3407,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,2284
+Nighthawk,WA,3011,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,468
+Turner,MT,3306,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,62
+Baudette,MN,3424,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,428
+Blaine,WA,3004,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,3583
+Sault Sainte Marie,MI,3803,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,721
+Antler,ND,3413,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Tecate,CA,2505,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Whitetail,MT,3312,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,201
+St. John,ND,3405,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,96
+Roosville,MT,3318,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,1681
+Porthill,ID,3308,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,37
+Eagle Pass,TX,2303,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,544615
+Raymond,MT,3301,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,1093
+Progreso,TX,2309,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,134414
+Alcan,AK,3104,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Metaline Falls,WA,3025,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Brownsville,TX,2301,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,409
+Danville,WA,3012,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,176
+Northgate,ND,3406,US-Canada Border,01/01/1996 12:00:00 AM,Buses,5
+Baudette,MN,3424,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,12609
+Sumas,WA,3009,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,3647
+San Luis,AZ,2608,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,0
+Boundary,WA,3015,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,0
+Westhope,ND,3419,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Naco,AZ,2603,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Calexico East,CA,2507,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Fort Kent,ME,110,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Tornillo-Fabens,TX,2404,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Walhalla,ND,3407,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,362
+Warroad,MN,3423,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,395
+Ferry,WA,3013,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,102
+Vanceboro,ME,105,US-Canada Border,01/01/1996 12:00:00 AM,Buses,4
+Richford,VT,203,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Neche,ND,3404,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,4
+Sweetgrass,MT,3310,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,7520
+Ferry,WA,3013,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Frontier,WA,3020,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Progreso,TX,2309,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Portal,ND,3403,US-Canada Border,01/01/1996 12:00:00 AM,Buses,49
+Skagway,AK,3103,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Fort Fairfield,ME,107,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,42028
+El Paso,TX,2402,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,22791
+Hannah,ND,3408,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,596
+Calexico,CA,2503,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,1243
+Jackman,ME,104,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,8877
+Eastport,ID,3302,US-Canada Border,01/01/1996 12:00:00 AM,Buses,17
+Warroad,MN,3423,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,1704
+Lynden,WA,3023,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Lukeville,AZ,2602,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Pinecreek,MN,3425,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Jackman,ME,104,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,22684
+Scobey,MT,3309,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Scobey,MT,3309,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Ferry,WA,3013,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,755
+Pinecreek,MN,3425,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Douglas,AZ,2601,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Blaine,WA,3004,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,714877
+Lynden,WA,3023,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,48391
+Roosville,MT,3318,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Carbury,ND,3421,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Sault Sainte Marie,MI,3803,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Walhalla,ND,3407,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,6386
+Turner,MT,3306,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,2
+Danville,WA,3012,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,65
+Del Rio,TX,2302,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Derby Line,VT,209,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,288
+Grand Portage,MN,3613,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,506
+Piegan,MT,3316,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,14
+Eagle Pass,TX,2303,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,217846
+Naco,AZ,2603,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,5918
+Tecate,CA,2505,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Buffalo-Niagara Falls,NY,901,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,405836
+San Luis,AZ,2608,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,4744
+Limestone,ME,118,US-Canada Border,01/01/1996 12:00:00 AM,Buses,1
+Maida,ND,3416,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Alexandria Bay,NY,708,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Naco,AZ,2603,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,23126
+Porthill,ID,3308,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Nogales,AZ,2604,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,1103
+Dalton Cache,AK,3106,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,620
+Laurier,WA,3016,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,396
+Portland,ME,101,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Portal,ND,3403,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,14606
+Norton,VT,211,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,1665
+Northgate,ND,3406,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,178
+Carbury,ND,3421,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Nogales,AZ,2604,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,23
+Ambrose,ND,3410,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,465
+Raymond,MT,3301,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,4741
+Westhope,ND,3419,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Richford,VT,203,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,940
+Baudette,MN,3424,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Hannah,ND,3408,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Sault Sainte Marie,MI,3803,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,4556
+Massena,NY,704,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Champlain-Rouses Point,NY,712,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,145728
+Noyes,MN,3402,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,47
+Roseau,MN,3426,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,3643
+Fort Fairfield,ME,107,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,16300
+Buffalo-Niagara Falls,NY,901,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Westhope,ND,3419,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Douglas,AZ,2601,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,270
+Fortuna,ND,3417,US-Canada Border,01/01/1996 12:00:00 AM,Buses,14
+Hidalgo,TX,2305,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,16080
+Hansboro,ND,3415,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Fort Fairfield,ME,107,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Opheim,MT,3317,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Van Buren,ME,108,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Trout River,NY,715,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,26389
+Carbury,ND,3421,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Alexandria Bay,NY,708,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,1505
+Fort Kent,ME,110,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,721
+Danville,WA,3012,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,12849
+Nighthawk,WA,3011,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Turner,MT,3306,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,1661
+Del Rio,TX,2302,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,0
+Eastport,ID,3302,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,3312
+Columbus,NM,2406,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,95
+Columbus,NM,2406,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,8562
+Highgate Springs-Alburg,VT,212,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,8553
+Whitlash,MT,3321,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Roosville,MT,3318,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Pinecreek,MN,3425,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Champlain-Rouses Point,NY,712,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+San Ysidro,CA,2504,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Trout River,NY,715,US-Canada Border,01/01/1996 12:00:00 AM,Buses,2
+Noyes,MN,3402,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Vanceboro,ME,105,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,26
+Fort Fairfield,ME,107,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Van Buren,ME,108,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,692
+Portal,ND,3403,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,4442
+Piegan,MT,3316,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Calexico,CA,2503,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,15152
+Walhalla,ND,3407,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,537
+Van Buren,ME,108,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,2453
+Calexico East,CA,2507,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,0
+Antler,ND,3413,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,81
+Ogdensburg,NY,701,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Point Roberts,WA,3017,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Turner,MT,3306,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Del Bonita,MT,3322,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,11
+San Luis,AZ,2608,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,602083
+Del Bonita,MT,3322,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,67
+Danville,WA,3012,US-Canada Border,01/01/1996 12:00:00 AM,Buses,1
+Pinecreek,MN,3425,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Noonan,ND,3420,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,2865
+Frontier,WA,3020,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Ogdensburg,NY,701,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Sweetgrass,MT,3310,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,292
+El Paso,TX,2402,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,515
+Sweetgrass,MT,3310,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,1400
+Maida,ND,3416,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Baudette,MN,3424,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,203
+Del Rio,TX,2302,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,2285
+Calexico,CA,2503,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,5820
+Tornillo-Fabens,TX,2404,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,2275
+Dalton Cache,AK,3106,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,212
+Point Roberts,WA,3017,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Northgate,ND,3406,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,1472
+Otay Mesa,CA,2506,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,8
+Oroville,WA,3019,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,18491
+Neche,ND,3404,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Calexico East,CA,2507,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Fort Kent,ME,110,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,51
+Roosville,MT,3318,US-Canada Border,01/01/1996 12:00:00 AM,Buses,46
+Detroit,MI,3801,US-Canada Border,01/01/1996 12:00:00 AM,Buses,2695
+Eagle Pass,TX,2303,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,115
+Maida,ND,3416,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,1187
+Porthill,ID,3308,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Highgate Springs-Alburg,VT,212,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,6899
+Piegan,MT,3316,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,5974
+Andrade,CA,2502,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,123
+Eagle Pass,TX,2303,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,1747
+Pinecreek,MN,3425,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Piegan,MT,3316,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,92
+Calexico East,CA,2507,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,0
+Derby Line,VT,209,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,5851
+Naco,AZ,2603,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,60128
+Progreso,TX,2309,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,36
+Del Rio,TX,2302,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,22303
+Columbus,NM,2406,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,13
+Sasabe,AZ,2606,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,0
+Raymond,MT,3301,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Buffalo-Niagara Falls,NY,901,US-Canada Border,01/01/1996 12:00:00 AM,Trains,265
+Neche,ND,3404,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,738
+Nighthawk,WA,3011,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Morgan,MT,3319,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Del Rio,TX,2302,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,598
+Metaline Falls,WA,3025,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,4925
+Ogdensburg,NY,701,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Tecate,CA,2505,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,84
+Ogdensburg,NY,701,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,48986
+Sherwood,ND,3414,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Progreso,TX,2309,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,1105
+Van Buren,ME,108,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,1365
+Limestone,ME,118,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Hidalgo,TX,2305,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,0
+Fortuna,ND,3417,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Houlton,ME,106,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Highgate Springs-Alburg,VT,212,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,59
+Eastport,ID,3302,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,129
+St. John,ND,3405,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Westhope,ND,3419,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,1789
+Ambrose,ND,3410,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,3
+Piegan,MT,3316,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+El Paso,TX,2402,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,11363
+Port Huron,MI,3802,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,3103
+Frontier,WA,3020,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,1197
+Calais,ME,115,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,1750
+Morgan,MT,3319,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Del Bonita,MT,3322,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,31
+Sarles,ND,3409,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Blaine,WA,3004,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,1052
+Sasabe,AZ,2606,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Bridgewater,ME,127,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Hansboro,ND,3415,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Oroville,WA,3019,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,2010
+Santa Teresa,NM,2408,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,0
+Naco,AZ,2603,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,172
+Brownsville,TX,2301,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,1226499
+Lynden,WA,3023,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,1989
+Opheim,MT,3317,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Neche,ND,3404,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Warroad,MN,3423,US-Canada Border,01/01/1996 12:00:00 AM,Buses,125
+Scobey,MT,3309,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Danville,WA,3012,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,7452
+Lukeville,AZ,2602,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,16
+Del Bonita,MT,3322,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,20
+Maida,ND,3416,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Bridgewater,ME,127,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Raymond,MT,3301,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,37
+Houlton,ME,106,US-Canada Border,01/01/1996 12:00:00 AM,Buses,13
+Bridgewater,ME,127,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Boundary,WA,3015,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,7545
+Portal,ND,3403,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Tecate,CA,2505,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,259222
+Calais,ME,115,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,42
+Pinecreek,MN,3425,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Otay Mesa,CA,2506,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,43934
+Rio Grande City,TX,2307,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Norton,VT,211,US-Canada Border,01/01/1996 12:00:00 AM,Buses,6
+Piegan,MT,3316,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Highgate Springs-Alburg,VT,212,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Whitlash,MT,3321,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,123
+Laredo,TX,2304,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,315
+Opheim,MT,3317,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Laurier,WA,3016,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Derby Line,VT,209,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,0
+Sarles,ND,3409,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Metaline Falls,WA,3025,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,266
+Vanceboro,ME,105,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,590
+Houlton,ME,106,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,249
+Noyes,MN,3402,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,1
+Del Bonita,MT,3322,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Sweetgrass,MT,3310,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,108
+Santa Teresa,NM,2408,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,0
+Lukeville,AZ,2602,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,21147
+Whitetail,MT,3312,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Tornillo-Fabens,TX,2404,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Whitetail,MT,3312,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Calais,ME,115,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,110677
+Douglas,AZ,2601,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Hansboro,ND,3415,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Pinecreek,MN,3425,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Eastport,ID,3302,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,640
+Massena,NY,704,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Richford,VT,203,US-Canada Border,01/01/1996 12:00:00 AM,Trains,13
+Danville,WA,3012,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Richford,VT,203,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,52
+Norton,VT,211,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,62
+Sault Sainte Marie,MI,3803,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,105280
+Fort Fairfield,ME,107,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,1257
+Beecher Falls,VT,206,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Highgate Springs-Alburg,VT,212,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,8
+Santa Teresa,NM,2408,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+El Paso,TX,2402,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,46847
+Sherwood,ND,3414,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Del Rio,TX,2302,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,3043
+Andrade,CA,2502,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,165128
+Port Huron,MI,3802,US-Canada Border,01/01/1996 12:00:00 AM,Buses,174
+Champlain-Rouses Point,NY,712,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Portal,ND,3403,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Oroville,WA,3019,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Andrade,CA,2502,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Bridgewater,ME,127,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,969
+Derby Line,VT,209,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Champlain-Rouses Point,NY,712,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Derby Line,VT,209,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Hidalgo,TX,2305,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,3287
+Madawaska,ME,109,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,716
+El Paso,TX,2402,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,419
+Brownsville,TX,2301,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,283000
+Buffalo-Niagara Falls,NY,901,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Turner,MT,3306,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,39
+Roseau,MN,3426,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Nogales,AZ,2604,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,1234
+Noyes,MN,3402,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,3636
+Del Rio,TX,2302,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,138053
+Roma,TX,2310,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,100635
+Raymond,MT,3301,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Champlain-Rouses Point,NY,712,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,54993
+Alcan,AK,3104,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Roosville,MT,3318,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,3992
+Antler,ND,3413,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Opheim,MT,3317,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Van Buren,ME,108,US-Canada Border,01/01/1996 12:00:00 AM,Buses,3
+Frontier,WA,3020,US-Canada Border,01/01/1996 12:00:00 AM,Buses,52
+Walhalla,ND,3407,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Metaline Falls,WA,3025,US-Canada Border,01/01/1996 12:00:00 AM,Buses,8
+Antler,ND,3413,US-Canada Border,01/01/1996 12:00:00 AM,Buses,0
+Columbus,NM,2406,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Warroad,MN,3423,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,1435
+Tornillo-Fabens,TX,2404,US-Mexico Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+San Ysidro,CA,2504,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,0
+International Falls-Ranier,MN,3604,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Blaine,WA,3004,US-Canada Border,01/01/1996 12:00:00 AM,Trains,141
+Trout River,NY,715,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,1012
+Richford,VT,203,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Roma,TX,2310,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Lukeville,AZ,2602,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,57942
+Grand Portage,MN,3613,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Santa Teresa,NM,2408,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,418
+Scobey,MT,3309,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,907
+Madawaska,ME,109,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,1386
+Noonan,ND,3420,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Scobey,MT,3309,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,417
+Sumas,WA,3009,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,7011
+Alexandria Bay,NY,708,US-Canada Border,01/01/1996 12:00:00 AM,Buses,44
+Neche,ND,3404,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Noyes,MN,3402,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,76
+Andrade,CA,2502,US-Mexico Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Grand Portage,MN,3613,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Bridgewater,ME,127,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,10499
+Columbus,NM,2406,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Del Bonita,MT,3322,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Portland,ME,101,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Portland,ME,101,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Derby Line,VT,209,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,19
+San Ysidro,CA,2504,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Raymond,MT,3301,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,2008
+Fortuna,ND,3417,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,309
+Metaline Falls,WA,3025,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Noyes,MN,3402,US-Canada Border,01/01/1996 12:00:00 AM,Trains,138
+Brownsville,TX,2301,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,19168
+Roosville,MT,3318,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+San Luis,AZ,2608,US-Mexico Border,01/01/1996 12:00:00 AM,Buses,8
+Lynden,WA,3023,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Boundary,WA,3015,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Opheim,MT,3317,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Dunseith,ND,3422,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,173
+Hidalgo,TX,2305,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,487872
+Northgate,ND,3406,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Highgate Springs-Alburg,VT,212,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Tecate,CA,2505,US-Mexico Border,01/01/1996 12:00:00 AM,Truck Containers Empty,1414
+Laurier,WA,3016,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Maida,ND,3416,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Ambrose,ND,3410,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Piegan,MT,3316,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,2286
+Ambrose,ND,3410,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,0
+Progreso,TX,2309,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Massena,NY,704,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,8083
+Sumas,WA,3009,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Neche,ND,3404,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,6677
+Jackman,ME,104,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,527
+Trout River,NY,715,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Beecher Falls,VT,206,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,1656
+Whitetail,MT,3312,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Roseau,MN,3426,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,25
+Madawaska,ME,109,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,104
+Dunseith,ND,3422,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,2951
+San Luis,AZ,2608,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Columbus,NM,2406,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,73
+Trout River,NY,715,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,0
+Laurier,WA,3016,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,66
+Opheim,MT,3317,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Buffalo-Niagara Falls,NY,901,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,893376
+Massena,NY,704,US-Canada Border,01/01/1996 12:00:00 AM,Train Passengers,0
+Andrade,CA,2502,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,0
+Hidalgo,TX,2305,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Douglas,AZ,2601,US-Mexico Border,01/01/1996 12:00:00 AM,Trains,0
+San Ysidro,CA,2504,US-Mexico Border,01/01/1996 12:00:00 AM,Rail Containers Full,0
+Santa Teresa,NM,2408,US-Mexico Border,01/01/1996 12:00:00 AM,Personal Vehicles,4719
+Dunseith,ND,3422,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,1573
+Sault Sainte Marie,MI,3803,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,9020
+Sherwood,ND,3414,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,22
+Sherwood,ND,3414,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Hannah,ND,3408,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Boundary,WA,3015,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Presidio,TX,2403,US-Mexico Border,01/01/1996 12:00:00 AM,Pedestrians,645
+Fortuna,ND,3417,US-Canada Border,01/01/1996 12:00:00 AM,Bus Passengers,568
+Grand Portage,MN,3613,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Full,976
+St. John,ND,3405,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,3278
+Portland,ME,101,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,0
+Fort Kent,ME,110,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Van Buren,ME,108,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Ogdensburg,NY,701,US-Canada Border,01/01/1996 12:00:00 AM,Pedestrians,0
+Ambrose,ND,3410,US-Canada Border,01/01/1996 12:00:00 AM,Trains,0
+Van Buren,ME,108,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicles,30862
+Whitetail,MT,3312,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Point Roberts,WA,3017,US-Canada Border,01/01/1996 12:00:00 AM,Rail Containers Empty,0
+Antler,ND,3413,US-Canada Border,01/01/1996 12:00:00 AM,Personal Vehicle Passengers,1576
+Tecate,CA,2505,US-Mexico Border,01/01/1996 12:00:00 AM,Trucks,3228
+Calais,ME,115,US-Canada Border,01/01/1996 12:00:00 AM,Trucks,8955
+Carbury,ND,3421,US-Canada Border,01/01/1996 12:00:00 AM,Truck Containers Empty,0
+Skagway,AK,3103,US-Canada Border,01/01/1996 12:00:00 AM,Buses,3
