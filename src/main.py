@@ -198,7 +198,10 @@ def parse_subsets_with_same_value(input_table, input_key):
     print('\nstart_slice_index_list\n', start_slice_index_list)
     print('\nend_slice_index_list\n', end_slice_index_list)
 
-    return input_table
+    output_table = []
+    for i, value in enumerate(input_value_list):
+        output_table.append(input_table[start_slice_index_list[i] : end_slice_index_list[i]]) 
+    return output_table
 
 
 
@@ -239,6 +242,39 @@ data_entries4 = add_new_column(data_entries3, 'Average')
 
 # data_entries5 = consolidate_measures(data_entries4)
 # print('\n\ndata_entries5\n', data_entries5)
+
+# print(type(data_entries4))
+# print(type(data_entries4[0]))
 import pprint
-data_entries5 = parse_subsets_with_same_value(data_entries4, 'Date')
-pprint(data_entries5[1500:len(data_entries5)+1])
+subsets_with_same_date = parse_subsets_with_same_value(data_entries4, 'Date')
+
+# print(type(subsets_with_same_date))
+# print(type(subsets_with_same_date[0]))
+# print(type(subsets_with_same_date[0][0]))
+
+subsets_with_same_border = []
+for same_date_subset in subsets_with_same_date:
+    subsets_with_same_border.append(parse_subsets_with_same_value(same_date_subset, 'Border'))
+
+print(type(subsets_with_same_border))
+print(type(subsets_with_same_border[0]))
+print(type(subsets_with_same_border[0][0]))
+print(type(subsets_with_same_border[0][0][0]))
+
+print('subsets_with_same_date, stats')
+print('len(subsets_with_same_date))', len(subsets_with_same_date))
+print('len(subsets_with_same_date[0]))', len(subsets_with_same_date[0]))
+print('len(subsets_with_same_date[1]))', len(subsets_with_same_date[1]))
+print('len(subsets_with_same_date[2]))', len(subsets_with_same_date[2]))
+
+print('subsets_with_same_border, stats')
+print('len(subsets_with_same_border))', len(subsets_with_same_border))
+print('len(subsets_with_same_border[0]))', len(subsets_with_same_border[0]))
+print('len(subsets_with_same_border[1]))', len(subsets_with_same_border[1]))
+print('len(subsets_with_same_border[2]))', len(subsets_with_same_border[2]))
+print('len(subsets_with_same_border[0][0]))', len(subsets_with_same_border[0][0]))
+print('len(subsets_with_same_border[0][1]))', len(subsets_with_same_border[0][1]))
+print('len(subsets_with_same_border[1][0]))', len(subsets_with_same_border[1][0]))
+print('len(subsets_with_same_border[1][1]))', len(subsets_with_same_border[1][1]))
+print('len(subsets_with_same_border[2][0]))', len(subsets_with_same_border[2][0]))
+print('len(subsets_with_same_border[2][1]))', len(subsets_with_same_border[2][1]))
