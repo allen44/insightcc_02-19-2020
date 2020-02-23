@@ -117,28 +117,30 @@ def consolidate_measures(ascending_list_of_dicts):
                 matrix_of_sums = [[0 for item in range(0, len(measures))] for item in range(0, len(borders))]
                 print(matrix_of_sums)
                 dicts_with_same_date = ascending_list_of_dicts[start_date_index: end_date_index]
-                print(start_date_index, end_date_index)
+                date_subset_dict = dicts_with_same_date
                 print('len dicts_with_same_date: ' ,len(dicts_with_same_date))
-                for line in dicts_with_same_date:
-                    line.update({str(line.get('Date')+line.get('Border')+line.get('Measure')+'Value') : 0})#create a new dictionary key
-                    print('New k:v pair: ' , {str(line.get('Date')+line.get('Border')+line.get('Measure')+'Value') : 0})
-                for i,border in enumerate(borders):        #for dicts with the same data and border
-                    for j, measure in enumerate(measures):   #for dicts with the same date, border and measure
-                        #create a new dictionary key
-                        dicts_with_same_date 
-                        # print('measure =' , measure)            
-                        # print(range(start_date_index,end_date_index))
-                        # print('i = ', i ,  "Date: ", ascending_list_of_dicts[i-1]['Date'], 'Border :', border, 'Measure: ' , measure)
+                print(start_date_index, end_date_index)
+                print(type(date_subset_dict))
+                for line in date_subset_dict:
+                    line.update({str(line.get('Date')+line.get('Border')+line.get('Measure')+' Value') : 0})#create a new dictionary key
+                    # print('New k:v pair: ' , {str(line.get('Date')+line.get('Border')+line.get('Measure')+'Value') : 0})
+                    # print(line)
+                result = {}
+                for d in date_subset_dict: 
+                    d[key] = result.get(k, 0) + d[k]
+                output_line = dict([['Date', row['Date']], ['Border', border] , ['Measure', measure], ['Value' , 0]])
+                output_list_of_dicts.append(output_line)
+                # for i,border in enumerate(borders):        #for dicts with the same data and border
+                #     for j, measure in enumerate(measures):   #for dicts with the same date, border and measure
+                #         #create a new dictionary key
+                #         # print('measure =' , measure)            
+                #         # print(range(start_date_index,end_date_index))
+                #         # print('i = ', i ,  "Date: ", ascending_list_of_dicts[i-1]['Date'], 'Border :', border, 'Measure: ' , measure)
                         # sum the values with same keys 
-                        result = copy()
-                        for d in dicts_with_same_date: 
-                            d[key] = result.get(k, 0) + d[k]
-                        output_line = dict([['Date', row['Date']], ['Border', border] , ['Measure', measure], ['Value' , 0]])
-                        output_list_of_dicts.append(output_line)
                         # output_list_of_dicts[output_index] = dict( 'Date' = row['Date'], 'Border' = border , 'Measure' =  measure, 'Value' = v, 'Average' = a)
                     # print('border = , ', border)
-                    for measure in list(measures):
-                        pass
+                    # for measure in list(measures):
+                    #     pass
                         # print('measure =' , measure)            
                         # print(range(start_date_index,end_date_index )   
             start_date_index = i
@@ -151,7 +153,52 @@ def consolidate_measures(ascending_list_of_dicts):
 
     return output_list_of_dicts
                 
+def parse_subsets_with_same_value(input_table, input_key):
+    """
+    Given an ascending-sorted input_table and a key (from a key:value pair), returns a lists of subsets of the input_table where all rows have the same value for a given key.
+    Parameters:
+    input_table: type is list of dictionaries.
+    input_key: type is string.
+    Return:
+    table_subset: type is a list of a list of dictionaries. 
+    """
+    table_subset_list = []
+    input_value_set = set([])
+    start_slice_index_list = []
+    end_slice_index_list = []
+    # sort input_table by key / input unit check to ensure that only only ascending sorted tables are used
+    from operator import itemgetter
+    input_table = sorted(input_table, key=itemgetter(input_key))
+    #Parse_subsets_with_same_value using the unit-checked input
+    table_length = len(input_table)
+    for i, row in enumerate(input_table):
+        if i == 0:
+            start_slice_index_list.append(i)
+            input_key_set = row[input_key]
+        elif input_table[i][input_key] == input_table[i-1][input_key]: # value is same as previous line
+            if i == (table_length - 1): #final row in table
+                print('reached final row in table, final line is same as previous line')
+                end_slice_index_list.append(i + 1)
+                input_value_set.add(input_table[i][input_key])
+        else: #input_table[i][input_key] == input_table[i-1][input_key]:,   # value is different from previous line
+            print('value is different from previous line')
+            end_slice_index_list.append(i)
+            input_value_set.add(input_table[i-1][input_key])
+            start_slice_index_list.append(i)
+            if i == (table_length - 1): #final row in table
+                print('reached final row in table, final line is different from previous as previous line')
+                end_slice_index_list.append(i + 1)
+                input_value_set.add(input_table[i][input_key])
 
+    input_value_list = sorted(list(input_value_set))
+
+    print('number of items in list = ', i+1)
+    print('\ntable_subset_list\n', table_subset_list)
+    print('\ninput_value_list = \n', input_value_list)
+    print('\nstart_slice_index_list\n', start_slice_index_list)
+    print('\nend_slice_index_list\n', end_slice_index_list)
+
+    return input_table
 
 
 
@@ -190,6 +237,8 @@ data_entries4 = add_new_column(data_entries3, 'Average')
 # for i, row in enumerate(data_entries4):
     # print('\ndata_entries4\n', i, row.values())
 
-data_entries5 = consolidate_measures(data_entries4)
+# data_entries5 = consolidate_measures(data_entries4)
 # print('\n\ndata_entries5\n', data_entries5)
-
+import pprint
+data_entries5 = parse_subsets_with_same_value(data_entries4, 'Date')
+pprint(data_entries5[1500:len(data_entries5)+1])
