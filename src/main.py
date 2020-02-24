@@ -317,24 +317,54 @@ def reduce_similar_values_and_calclate_averages(ascending_sorted_table):
                 temp_row.clear()
                 temp_row.update(subset_by_date_border_and_measure)
             # Caluclate sums of values
-            print(len(temp_values_list))
+            # print(len(temp_values_list))
             temp_value = functools.reduce(lambda acc, x: acc + x, temp_values_list)
-            print(temp_value)
-            reduced_table_with_averages.append(temp_row)
-            #Calculate averages
-            temp_key= str(temp_row['Border']+temp_row['Measure'])
+            # print(temp_value)
+            temp_counter_key= str(temp_row['Border']+temp_row['Measure']+' Count')
+            temp_average_key= str(temp_row['Border']+temp_row['Measure']+' Average')
+            temp_running_value_key = str(temp_row['Border']+temp_row['Measure']+' Current Value')
             # print(list(average_calc_dictionary.keys()))
-            # print(temp_key)
-            if temp_key in list(average_calc_dictionary.keys()):
-                temp_val = average_calc_dictionary[temp_key] + 1
-                average_calc_dictionary.update({temp_key : temp_val})
-                # print(temp_val)
-                # print('Trueeee')
+            # print(temp_counter_key)
+            temp_row.update({'Value': temp_value})
+            if temp_counter_key in list(average_calc_dictionary.keys()):
+                filtered_temp_counter_dict = {k:v for (k,v) in average_calc_dictionary.items() if temp_counter_key in k}
+                temp_counter_val = average_calc_dictionary[temp_counter_key]
+                temp_running_value_val = average_calc_dictionary[temp_running_value_key]
+                print('\n\nfiltered_temp_counter_dict',filtered_temp_counter_dict)
+                print('type(temp_counter_val))', type(temp_counter_val), temp_counter_val)
+                print('type(temp_average_val))', type(temp_average_val), temp_average_val)
+                print('type(temp_running_value_val))', type(temp_running_value_val), temp_running_value_val)
+                # temp_average_val = temp_running_value_val / temp_counter_val
+                avg = temp_running_value_val / temp_counter_val
+                average_calc_dictionary.update({temp_average_key : avg}) 
+                print('average_calc_dictionary[temp_average_key] =', average_calc_dictionary[temp_average_key])
+                average_calc_dictionary.update({temp_running_value_key : average_calc_dictionary[temp_running_value_key]})
+                print('average_calc_dictionary[temp_running_value_key]', average_calc_dictionary[temp_running_value_key])
+                #increment temp_counter_val
+                temp_counter_val = temp_counter_val + 1
+                average_calc_dictionary.update({temp_counter_key : temp_counter_val})
+                temp_running_value_val = temp_running_value_val + temp_row['Value']
+                average_calc_dictionary.update({temp_running_value_key : temp_running_value_val})
+                print('temp_counter_key : temp_counter_val = {', temp_counter_key, ' : ', temp_counter_val, '}')
+                print('average_calc_dictionary[temp_counter_key] =', average_calc_dictionary[temp_counter_key])
+                print('average_calc_dictionary[temp_average_key] =', average_calc_dictionary[temp_average_key])
+                print('average_calc_dictionary[temp_running_value_key] =', average_calc_dictionary[temp_running_value_key])
+                temp_row.update({'Average' : avg})
             else:
-                temp_val = 1
-                average_calc_dictionary.update({temp_key : temp_val})                
-            # average_calc_dictionary.update({temp_key: temp_val})
-            # print(average_calc_dictionary)
+                temp_row.update({'Average' : 0})
+                #Increment Counter
+                temp_counter_val = 1
+                temp_average_val = 0
+                temp_running_value_val = int(temp_row['Value'])
+                print('type(temp_running_value_val))', type(temp_running_value_val), temp_running_value_val)
+                average_calc_dictionary.update({temp_counter_key : temp_counter_val, temp_average_key : temp_average_val, temp_running_value_key : temp_running_value_val})
+                # print('average_calc_dictionary', average_calc_dictionary)
+                print('average_calc_dictionary[temp_counter_key] =', average_calc_dictionary[temp_counter_key])
+                print('average_calc_dictionary[temp_average_key] =', average_calc_dictionary[temp_average_key])
+                print('average_calc_dictionary[temp_running_value_key] =', average_calc_dictionary[temp_running_value_key])
+            reduced_table_with_averages.append(temp_row)
+            print('temp_row', temp_row, '\n')
+
     print(average_calc_dictionary)
     return reduced_table_with_averages
 data_entries1 = import_csv_with_dictreader(input)
