@@ -1,3 +1,4 @@
+from operator import itemgetter
 import sys
 sys.argv = ('', './input/data.csv', './output/report.csv' )
 input = sys.argv[1]
@@ -48,7 +49,7 @@ def make_copy_of_data_with_only_relavent_keys(data_entries):
     # print(data_entries)
     return data_entries
 
-def sort_dict_by_date(list_of_dicts, ascending):
+def sort_dict_by_date_border_measure_value(list_of_dicts, ascending):
     """
     args: list_of_dicts is the input data table, ascending is a bool
     """
@@ -167,7 +168,7 @@ def parse_subsets_with_same_value(input_table, input_key):
     start_slice_index_list = []
     end_slice_index_list = []
     i = 0
-    # sort input_table by key / input unit check to ensure that only only ascending sorted tables are used
+    # unit check: sort input_table by key to ensure that only only ascending sorted tables are used
     from operator import itemgetter
     input_table = sorted(input_table, key=itemgetter(input_key))
     #Parse_subsets_with_same_value using the unit-checked input to get start and end slice indexes
@@ -231,18 +232,33 @@ def export_csv_with_dictwriter(output_filename, toCSV):
     output_filename: a string representing a filename of output csv file.
     Return: a list of  dicts representing column names from the top row of the csv,as the keys, and the data fields from the rest of the csvfile as the values.
     """
-    print(type(toCSV[0][0][0]))
-    keys = str(toCSV[0][0][0].keys())
-    print(keys)
-    try:
-        with open(output_filename, 'wb') as output_file:
-            dict_writer = csv.DictWriter(output_file, keys)
-            # dict_writer.fieldnames = keys
-            # dict_writer.writeheader()
-            dict_writer.writerows(toCSV)
-            print("Success. Export to csv complete")
-    except IOError:
-        print("I/O error")
+    headings = ['Date', 'Border', 'Measure', 'Value',  'Average']
+    line_count = 0
+    number_of_subsets_date_border = 0
+    number_of_subsets_date_border_measure = 0
+    number_of_subsets_by_date_border_and_measure = 0
+    with open(output_filename,'w', newline='') as CSVFile:
+        csvWriter = csv.DictWriter(CSVFile, fieldnames=headings, dialect='excel', quoting=csv.QUOTE_NONNUMERIC)
+        csvWriter.writeheader()
+        for subset_by_dates_border in toCSV:
+            number_of_subsets_date_border += 1
+            csvWriter.writerow({'Border': f'begin_date_subset {number_of_subsets_date_border}'})
+            for subset_by_date_border_measure in subset_by_dates_border:
+                number_of_subsets_date_border_measure += 1
+                csvWriter.writerow({'Measure': f'begin_subet_by_date_and_border_measure {number_of_subsets_date_border_measure}'})
+                for subset_by_date_border_and_measure in subset_by_date_border_measure:
+                    number_of_subsets_by_date_border_and_measure += 1
+                    csvWriter.writerow({'Value': f'begin_number_of_subsets_by_date_border_and_measure {number_of_subsets_by_date_border_and_measure}'})
+                    # print(type(subset_by_date_border_and_measure))
+                    # print(subset_by_date_border_and_measure)
+                    csvWriter.writerow(subset_by_date_border_and_measure)
+    print('csv exproted sucessfully')
+    print('number_of_subsets_date_border =', number_of_subsets_date_border)
+    print('number_of_subsets_date_border_measure =', number_of_subsets_date_border_measure)
+    print('number_of_subsets_by_date_border_and_measure = ', number_of_subsets_by_date_border_and_measure)
+           # for data in toCSV[0][0]:
+        #     csvWriter.writerow(data)
+
 
 
 data_entries1 = import_csv_with_dictreader(input)
@@ -252,48 +268,57 @@ data_entries1 = import_csv_with_dictreader(input)
 data_entries2 = make_copy_of_data_with_only_relavent_keys(data_entries1)
 # print('\n\ndata_entries2\n', data_entries2)
 #remove_unecessary_keys(data_entries1)
-
+del data_entries1
 #print(data_entries1)
 
-data_entries3 = sort_dict_by_date(data_entries2, True)
+data_entries3 = sort_dict_by_date_border_measure_value(data_entries2, True)
 #print('\n\ndata_entries3\n', data_entries3)
+del data_entries2
 
 data_entries4 = add_new_column(data_entries3, 'Average')
 # for i, row in enumerate(data_entries4):
     # print('\ndata_entries4\n', i, row.values())
+del data_entries3
 
 # data_entries5 = consolidate_measures(data_entries4)
 # print('\n\ndata_entries5\n', data_entries5)
 
 # print(type(data_entries4))
 # print(type(data_entries4[0]))
-print('\ntable_parsed_by_date, stats')
+print('\n*A* table_parsed_by_date, stats')
 table_parsed_by_date, date_values_list = parse_subsets_with_same_value(data_entries4, 'Date')
+#Test shape of table_parsed_by_date
+print('\nTest shape of table_parsed_by_date')
 for i, entries_with_same_date in enumerate(table_parsed_by_date):
     print('len(entries_with_same_date) in table_parsed_by_date [', i, ']', len(entries_with_same_date))
     print('date_values_list')  
 
 
-print('\ntable_parsed_by_date_and_border')
+print('\n*B* table_parsed_by_date_and_border')
 table_parsed_by_date_and_border = []
 border_values_list = []
 for i, subset_with_same_date in enumerate(table_parsed_by_date):
     subset, value_list = parse_subsets_with_same_value(subset_with_same_date, 'Border')
     table_parsed_by_date_and_border.append(subset) #entries with same date and border
     border_values_list.append(value_list)
-    print('len(table_parsed_by_date_and_border) in table_parsed_by_border [', i, ']', len(table_parsed_by_date_and_border[i]))
+    print('len(table_parsed_by_date_and_border) in table_parsed_by_border [', i, ']', len(table_parsed_by_date_and_border[i]))  
+print('\n')
+##Test shape of table_parsed_by_date_and_border
+print('\nTest shape of table_parsed_by_date_and_border')
 for i, subset_with_same_date in enumerate(table_parsed_by_date_and_border):
+    print('len(table_parsed_by_date_and_border) in table_parsed_by_border [', i, ']', len(table_parsed_by_date_and_border[i]))  
     for j, entries_parsed_by_date_and_border in enumerate(subset_with_same_date):
         print('\tlen(entries_parsed_by_date_and_border) in table_parsed_by_date_and_border [', i, '][', j, ']', len(entries_parsed_by_date_and_border))
 
+print()
 
-print('\ntable_parsed_by_date_border_and_measure')
+print('\n*C* table_parsed_by_date_border_and_measure')
 table_parsed_by_date_border_and_measure = []
 measure_values_list = []
 for i, subset_with_same_date in enumerate(table_parsed_by_date_and_border):
-    print('len(subset_with_same_date[i]) in table_parsed_by_border [', i, ']', len(subset_with_same_date))   
+    print('len(subset_with_same_date) in table_parsed_by_border [', i, ']', len(table_parsed_by_date_and_border))    
     for j, subset_with_same_date_and_same_border in enumerate(subset_with_same_date):
-        print('\tlen(subset_with_same_date[i]_and_same_border[j]) in subsets_with_same_date [', i, '][', j, ']', len(subset_with_same_date_and_same_border))
+        print('\tlen(subset_with_same_date_and_same_border) in subsets_with_same_date [', i, '][', j, ']', len(subset_with_same_date_and_same_border))
         # print(type(subset_with_same_date_and_same_border))
         # print(type(subset_with_same_date_and_same_border[0]))
         subset_with_same_date_border_and_measure, value_list = parse_subsets_with_same_value(subset_with_same_date_and_same_border, 'Measure')
@@ -301,11 +326,25 @@ for i, subset_with_same_date in enumerate(table_parsed_by_date_and_border):
         measure_values_list.append(value_list)
         # print(value_list)
         # print('\t\tlen(subset_with_same_date_border_and_measure) in subset_with_same_date_and_same_border [', i, '][', j, '][', k, ']', len(subset_with_same_date_border_and_measure))
+print('\n')
+#Test shape of table_parsed_by_date_border_and_measure
+print('\nTest shape of table_parsed_by_date_border_and_measure')
+# for i, subset_with_same_date in enumerate(table_parsed_by_date_border_and_measure):
+#     print('len(subset_with_same_date)', len(subset_with_same_date))
+#     print(subset_with_same_date[i])
+#     print('len(subset_with_same_date[i]) in table_parsed_by_border [', i, ']', len(table_parsed_by_date_border_and_measure[i]))   
+#     for j, subset_with_same_date_and_same_border in enumerate(subset_with_same_date_border_and_measure[i]):
+#         print('len(subset_with_same_date[i][j]) in table_parsed_by_border [', i, '][', j, '], len(subset_with_same_date_border_and_measure[i][j]')
+#         for k, subset_with_same_date_border_and_measure in enumerate(table_parsed_by_date_border_and_measure[i][j]):
+#             pass
+            # print('\tlen(subset_with_same_date_border_and_measure) in subset_with_same_date_and_border [', i, '][', j, '][', k, ']', len(subset_with_same_date_border_and_measure))
+            # print('\tsubset_with_same_date_border_and_measure in subset_with_same_date_and_border [', i, '][', j, '][', k, ']', subset_with_same_date_border_and_measure)
+            
 # for i, subset_with_same_date in enumerate(table_parsed_by_date_and_border):
 #     for j, subset_with_same_date_and_same_border in enumerate(subset_with_same_date):
 #         for k, subset_with_same_date_border_and_measure in enumerate(subset_with_same_date_and_same_border):
 #             print('\t\tlen(subset_with_same_date_border_and_measure) in subset_with_same_date_and_same_border [', i, '][', j, '][', k, ']', len(subset_with_same_date_border_and_measure))
-print('\nlen(table_parsed_by_measure)', len(table_parsed_by_date_border_and_measure))
+# print('\nlen(table_parsed_by_measure)', len(table_parsed_by_date_border_and_measure))
 
 
 # print('\n')
