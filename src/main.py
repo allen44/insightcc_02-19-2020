@@ -67,7 +67,6 @@ def add_new_column(ascending_list_of_dicts, name_of_new_key):
         #print(row)
     return ascending_list_of_dicts
 
-def consolidate_measures(ascending_list_of_dicts):
     import collections, functools, operator 
     date = ''
     measures_set = set([])
@@ -259,7 +258,10 @@ def export_csv_with_dictwriter(output_filename, toCSV):
            # for data in toCSV[0][0]:
         #     csvWriter.writerow(data)
 
+def sum_values(table):
+    output_table=[]
 
+    return table_consolidated_vaules_for_same_date_border_and_measure
 
 data_entries1 = import_csv_with_dictreader(input)
 
@@ -279,6 +281,7 @@ data_entries4 = add_new_column(data_entries3, 'Average')
 # for i, row in enumerate(data_entries4):
     # print('\ndata_entries4\n', i, row.values())
 del data_entries3
+
 
 # data_entries5 = consolidate_measures(data_entries4)
 # print('\n\ndata_entries5\n', data_entries5)
@@ -309,8 +312,6 @@ for i, subset_with_same_date in enumerate(table_parsed_by_date_and_border):
     print('len(table_parsed_by_date_and_border) in table_parsed_by_border [', i, ']', len(table_parsed_by_date_and_border[i]))  
     for j, entries_parsed_by_date_and_border in enumerate(subset_with_same_date):
         print('\tlen(entries_parsed_by_date_and_border) in table_parsed_by_date_and_border [', i, '][', j, ']', len(entries_parsed_by_date_and_border))
-
-print()
 
 print('\n*C* table_parsed_by_date_border_and_measure')
 table_parsed_by_date_border_and_measure = []
@@ -378,6 +379,7 @@ print('\nTest shape of table_parsed_by_date_border_and_measure')
 #     for j, same_border_subset in enumerate(table_parsed_by_border):
 #         for k, same_measure_subset in enumerate(subsets_with_same_measure):
 #             print(i, j, k, 'len(subsets_with_same_measure))', len(same_measure_subset))
+
 
 
 export_csv_with_dictwriter(output, table_parsed_by_date_border_and_measure)
